@@ -1,0 +1,135 @@
+{
+  "total_pending_reviews": 5,
+  "review_cases": [
+    {
+      "draft_rule_number": 1,
+      "draft_title": "Short title and commencement",
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_matches": [
+        {
+          "final_rule_number": 1,
+          "final_title": "Short title and commencement.",
+          "similarity": 0.7402
+        },
+        {
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "similarity": 0.3051
+        },
+        {
+          "final_rule_number": 20,
+          "final_title": "Functioning of Board as digital office.",
+          "similarity": 0.2679
+        }
+      ],
+      "review_status": "pending",
+      "selected_final_rule_numbers": [],
+      "review_notes": ""
+    },
+    {
+      "draft_rule_number": 2,
+      "draft_title": "Definitions",
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_matches": [
+        {
+          "final_rule_number": 2,
+          "final_title": "Definitions.",
+          "similarity": 0.5895
+        },
+        {
+          "final_rule_number": 1,
+          "final_title": "Short title and commencement.",
+          "similarity": 0.2704
+        },
+        {
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "similarity": 0.2659
+        }
+      ],
+      "review_status": "pending",
+      "selected_final_rule_numbers": [],
+      "review_notes": ""
+    },
+    {
+      "draft_rule_number": 8,
+      "draft_title": "Time period for specified purpose to be deemed as no longer being served",
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_matches": [
+        {
+          "final_rule_number": 8,
+          "final_title": "Time period for specified purpose to be deemed as no longer being served",
+          "similarity": 0.7802
+        },
+        {
+          "final_rule_number": 23,
+          "final_title": "Calling for information from Data Fiduciary or intermediary.",
+          "similarity": 0.3225
+        },
+        {
+          "final_rule_number": 3,
+          "final_title": "Notice given by Data Fiduciary to Data Principal.",
+          "similarity": 0.2764
+        }
+      ],
+      "review_status": "pending",
+      "selected_final_rule_numbers": [],
+      "review_notes": ""
+    },
+    {
+      "draft_rule_number": 10,
+      "draft_title": "Verifiable consent for processing of personal data of child or of person with",
+      "confidence_level": "medium",
+      "relationship": "possible_split",
+      "candidate_matches": [
+        {
+          "final_rule_number": 10,
+          "final_title": "Verifiable consent for processing of personal data of child",
+          "similarity": 0.7036
+        },
+        {
+          "final_rule_number": 11,
+          "final_title": "Verifiable consent for processing of personal data of person with disability who has lawful",
+          "similarity": 0.6537
+        },
+        {
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "similarity": 0.291
+        }
+      ],
+      "review_status": "pending",
+      "selected_final_rule_numbers": [],
+      "review_notes": ""
+    },
+    {
+      "draft_rule_number": 14,
+      "draft_title": "Processing of personal data outside India",
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_matches": [
+        {
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "similarity": 0.7431
+        },
+        {
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "similarity": 0.3969
+        },
+        {
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "similarity": 0.3893
+        }
+      ],
+      "review_status": "pending",
+      "selected_final_rule_numbers": [],
+      "review_notes": ""
+    }
+  ]
+}

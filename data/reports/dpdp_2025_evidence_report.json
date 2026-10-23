@@ -1,0 +1,1490 @@
+{
+  "report_type": "regulatory_change_evidence_report",
+  "total_changes": 17,
+  "review_required_count": 17,
+  "changes": [
+    {
+      "draft_rule_number": 3,
+      "final_rule_number": 3,
+      "draft_title": "Notice given by Data Fiduciary to Data Principal",
+      "final_title": "Notice given by Data Fiduciary to Data Principal.",
+      "change_status": "modified",
+      "change_count": 5,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Principal.—The",
+          "final_text": "Principal. —The",
+          "draft_word_range": [
+            7,
+            8
+          ],
+          "final_word_range": [
+            7,
+            9
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "minimum,—",
+          "final_text": "minimum, —",
+          "draft_word_range": [
+            80,
+            81
+          ],
+          "final_word_range": [
+            81,
+            83
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "or purposes",
+          "draft_word_range": [
+            94,
+            94
+          ],
+          "final_word_range": [
+            96,
+            98
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "an itemised",
+          "final_text": "specific",
+          "draft_word_range": [
+            96,
+            98
+          ],
+          "final_word_range": [
+            100,
+            101
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "give,",
+          "draft_word_range": [
+            117,
+            117
+          ],
+          "final_word_range": [
+            120,
+            121
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_3",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "3. Notice given by Data Fiduciary to Data Principal.—The notice given by the Data\nFiduciary to the Data Principal shall—\n    (a) be presented and be understandable independently of any other information that\n      has been, is or may be made available by such Data Fiduciary;\n    (b) give, in clear and plain language, a fair account of the details necessary to enable\n      the Data Principal to give specific and informed consent for the processing of her\n      personal data, which shall include, at the minimum,—\n                (i) an itemised description of such personal data; and\n                 (ii) the specified purpose of, and an itemised description of the goods or services\n           to be provided or uses to be enabled by, such processing; and\n    (c) the particular communication link for accessing the website or app, or both, of such\n      Data Fiduciary, and a description of other means,  if any, using which such Data\n       Principal may—\n                   (i)   withdraw her consent, with the ease of doing so being comparable to that\n                 with which such consent was given;\n                    (ii)  exercise her rights under the Act; and\n[भाग II—खण् ड 3(i)]                   भारत का रािपत्र : असाधारण                                 29\n\n                     (iii) make a complaint to the Board."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_3",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "3. Notice given by Data Fiduciary to Data Principal. —The notice given by the Data Fiduciary to the\nData Principal shall—\n\n    (a) be presented and be understandable independently of any other information that has been, is or may\n       be made available by such Data Fiduciary;\n\n    (b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal\n        to give specific and informed consent for the processing of her personal data, which shall include,\n         at the minimum, —\n\n                (i) an itemised description of such personal data; and\n\n                 (ii) the specified purpose or purposes of, and specific description of the goods or services to be\n            provided or uses to be enabled by, such processing; and\n\n    (c) give, the particular communication link for accessing the website or app, or both, of such Data\n        Fiduciary, and a description of other means, if any, using which such Data Principal may—\n[भाग II—खण् ड  3(i)]                   भारत का रािपत्र : असाधारण                             25\n\n                   (i)   withdraw her consent, with the ease of doing so being comparable to that with which\n                  such consent was given;\n                    (ii)   exercise her rights under the Act; and\n                    (iii)  make a complaint to the Board."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 4,
+      "final_rule_number": 4,
+      "draft_title": "Registration and obligations of Consent Manager",
+      "final_title": "Registration and obligations of Consent Manager.",
+      "change_status": "modified",
+      "change_count": 4,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Manager.—(1)",
+          "final_text": "Manager. — (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "rule, it",
+          "final_text": "rule,it",
+          "draft_word_range": [
+            174,
+            176
+          ],
+          "final_word_range": [
+            176,
+            177
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "non-adherence",
+          "final_text": "non- adherence",
+          "draft_word_range": [
+            190,
+            191
+          ],
+          "final_word_range": [
+            191,
+            193
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "writing,—",
+          "final_text": "writing, —",
+          "draft_word_range": [
+            241,
+            242
+          ],
+          "final_word_range": [
+            243,
+            245
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_4",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "4. Registration and obligations of Consent Manager.—(1) A person who fulfils the\nconditions for registration of Consent Managers set out in Part A of First Schedule may\napply to the Board for registration as a Consent Manager by furnishing such particulars\nand such other information and documents as the Board may publish in this behalf on its\nwebsite.\n\n(2) On receipt of such application, the Board may make such inquiry as it may deem fit to\nsatisfy itself regarding fulfilment of the conditions set out in Part A of First Schedule, and if\nit—\n    (a) is satisfied, register the applicant as a Consent Manager, under intimation to the\n       applicant, and publish on its website the particulars of such Consent Manager; or\n    (b) is not satisfied, reject the application and communicate the reasons for the rejection\n       to the applicant.\n\n(3) The Consent Manager shall have obligations as specified in Part B of First Schedule.\n\n(4) If the Board is of the opinion that a Consent Manager is not adhering to the conditions\nand obligations under this rule, it may, after giving an opportunity of being heard, inform\nthe Consent Manager of such non-adherence and direct the Consent Manager to take\nmeasures to ensure adherence.\n\n(5) The Board may, if it is satisfied that it is necessary so to do in the interests of Data\nPrincipals, after giving the Consent Manager an opportunity of being heard, by order, for\nreasons to be recorded in writing,—\n    (a) suspend or cancel the registration of such Consent Manager; and\n    (b) give such directions as  it may deem  fit to that Consent Manager, to protect the\n       interests of the Data Principals.\n\n(6) The Board may, for the purposes of this rule, require the Consent Manager to furnish\nsuch information as the Board may call for."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_4",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "4. Registration and obligations of Consent Manager. — (1) A person who fulfils the conditions for\nregistration of Consent Managers set out in Part A of First Schedule may apply to the Board for registration\nas a Consent Manager by furnishing such particulars and such other information and documents as the\nBoard may publish in this behalf on its website.\n(2) On receipt of such application, the Board may make such inquiry as it may deem fit to satisfy itself\nregarding fulfilment of the conditions set out in Part A of First Schedule, and if it—\n    (a)  is satisfied, register the applicant as a Consent Manager, under intimation to the applicant, and\n        publish on its website the particulars of such Consent Manager; or\n    (b) is not  satisfied, reject the application and communicate the reasons for the rejection to the\n        applicant.\n\n(3) The Consent Manager shall have obligations as specified in Part B of First Schedule.\n(4) If the Board is of the opinion that a Consent Manager is not adhering to the conditions and obligations\nunder this rule,it may, after giving an opportunity of being heard, inform the Consent Manager of such non-\nadherence and direct the Consent Manager to take measures to ensure adherence.\n(5) The Board may, if it is satisfied that it is necessary so to do in the interests of Data Principals, after\ngiving the Consent Manager an opportunity of being heard, by order, for reasons to be recorded in writing,\n—\n    (a) suspend or cancel the registration of such Consent Manager; and\n\n    (b) give such directions as it may deem fit to that Consent Manager, to protect the interests of the Data\n        Principals.\n\n(6) The Board may, for the purposes of this rule, require the Consent Manager to furnish such information\nas the Board may call for."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 5,
+      "final_rule_number": 5,
+      "draft_title": "Processing for provision or issue of subsidy, benefit, service, certificate, licence",
+      "final_title": "Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or",
+      "change_status": "modified",
+      "change_count": 6,
+      "detected_changes": [
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "of personal data",
+          "draft_word_range": [
+            1,
+            1
+          ],
+          "final_word_range": [
+            1,
+            4
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "instrumentalities.—(1) The State and any of its instrumentalities may process",
+          "final_text": "instrumentalities. — (1) Processing",
+          "draft_word_range": [
+            17,
+            27
+          ],
+          "final_word_range": [
+            20,
+            24
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "under clause (b) of section 7 of the Act to provide or to issue to her any subsidy, benefit, service, certificate, licence or permit that is provided or issued under law or policy or using public funds. (2) Processing",
+          "final_text": "",
+          "draft_word_range": [
+            34,
+            73
+          ],
+          "final_word_range": [
+            31,
+            31
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "(3)",
+          "final_text": "(2)",
+          "draft_word_range": [
+            86,
+            87
+          ],
+          "final_word_range": [
+            44,
+            45
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "the",
+          "draft_word_range": [
+            91,
+            91
+          ],
+          "final_word_range": [
+            49,
+            50
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "to,—",
+          "final_text": "to, —",
+          "draft_word_range": [
+            238,
+            239
+          ],
+          "final_word_range": [
+            197,
+            199
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_5",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "5. Processing for provision or issue of subsidy, benefit, service, certificate, licence\nor  permit by  State and  its  instrumentalities.—(1) The  State and any  of  its\ninstrumentalities may process the personal data of a Data Principal under clause (b) of\nsection 7 of the Act to provide or to issue to her any subsidy, benefit, service, certificate,\nlicence or permit that is provided or issued under law or policy or using public funds.\n\n(2) Processing under this rule shall be done following the standards specified in Second\nSchedule.\n\n(3) In this rule and Second Schedule, the reference to any subsidy, benefit, service,\ncertificate, licence or permit that is provided or issued—\n      (a) under law shall be construed as a reference to provision or issuance of such\n         subsidy, benefit, service, certificate, licence or permit in exercise of any power of\n         or the performance of any function by the State or any of its instrumentalities\n        under any law for the time being in force;\n\n      (b) under policy shall be construed as a reference to provision or issuance of such\n         subsidy, benefit, service,  certificate, licence or permit under any policy or\n          instruction issued by the Central Government or a State Government in exercise\n          of its executive power; and\n       (c) using public funds shall be construed as a reference to provision or issuance of\n        such  subsidy,  benefit,  service,  certificate,  licence  or  permit by  incurring\n         expenditure on the same from, or with accrual of receipts to,—\n                 (i)      in case  of the Central Government or a State Government, the\n               Consolidated Fund of India or the Consolidated Fund of the State or the\n                public account of India or the public account of the State; or\n                  (ii)   in case of any local or other authority within the territory of India or under\n               the control of the Government of India or of any State, the fund or funds of\n             such authority."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_5",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "5. Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or\npermit by State and its instrumentalities. — (1) Processing the personal data of a Data Principal under\nthis rule shall be done following the standards specified in Second Schedule.\n(2) In this rule and the Second Schedule, the reference to any subsidy, benefit, service, certificate, licence\nor permit that is provided or issued—\n        (a) under law shall be construed as a reference to provision or issuance of such subsidy, benefit,\n            service, certificate, licence or permit in exercise of any power of or the performance of any\n           function by the State or any of its instrumentalities under any law for the time being in force;\n       (b) under policy shall be construed as a reference to provision or issuance of such subsidy, benefit,\n            service, certificate, licence or permit under any policy or instruction issued by the Central\n         Government or a State Government in exercise of its executive power; and\n        (c) using public funds shall be construed as a reference to provision or issuance of such subsidy,\n            benefit, service, certificate, licence or permit by incurring expenditure on the same from, or with\n           accrual of receipts to, —\n\n                 (i) in case of the Central Government or a State Government, the Consolidated Fund of India\n                   or the Consolidated Fund of the State or the public account of India or the public\n                 account of the State; or\n\n                  (ii)   in case of any local or other authority within the territory of India or under the control of\n                   the Government of India or of any State, the fund or funds of such authority."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 6,
+      "final_rule_number": 6,
+      "draft_title": "Reasonable security safeguards",
+      "final_title": "Reasonable security safeguards.",
+      "change_status": "modified",
+      "change_count": 10,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "safeguards.—(1)",
+          "final_text": "safeguards. — (1)",
+          "draft_word_range": [
+            2,
+            3
+          ],
+          "final_word_range": [
+            2,
+            5
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "minimum,—",
+          "final_text": "minimum, —",
+          "draft_word_range": [
+            49,
+            50
+          ],
+          "final_word_range": [
+            51,
+            53
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "including",
+          "final_text": "such as",
+          "draft_word_range": [
+            55,
+            56
+          ],
+          "final_word_range": [
+            58,
+            60
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "such",
+          "final_text": "",
+          "draft_word_range": [
+            58,
+            59
+          ],
+          "final_word_range": [
+            62,
+            62
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "its",
+          "final_text": "",
+          "draft_word_range": [
+            62,
+            63
+          ],
+          "final_word_range": [
+            65,
+            65
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "obfuscation or",
+          "final_text": "obfuscation,",
+          "draft_word_range": [
+            64,
+            66
+          ],
+          "final_word_range": [
+            66,
+            67
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Processor;",
+          "final_text": "Processor, wherever applicable;",
+          "draft_word_range": [
+            97,
+            98
+          ],
+          "final_word_range": [
+            98,
+            101
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "including",
+          "final_text": "such as",
+          "draft_word_range": [
+            160,
+            161
+          ],
+          "final_word_range": [
+            163,
+            165
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "data- backups;",
+          "final_text": "data-backups;",
+          "draft_word_range": [
+            164,
+            166
+          ],
+          "final_word_range": [
+            168,
+            169
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Processor",
+          "final_text": "Processor, wherever applicable,",
+          "draft_word_range": [
+            231,
+            232
+          ],
+          "final_word_range": [
+            234,
+            237
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_6",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "6. Reasonable security safeguards.—(1) A Data Fiduciary shall protect personal data in\nits possession or under its control, including in respect of any processing undertaken by it\nor on its behalf by a Data Processor, by taking reasonable security safeguards to prevent\npersonal data breach, which shall include, at the minimum,—\n    (a) appropriate data security measures, including securing of such personal data\n      through its encryption, obfuscation or masking or the use of virtual tokens mapped\n       to that personal data;\n    (b) appropriate measures to control access to the computer resources used by such\n      Data Fiduciary or such a Data Processor;\n    (c) visibility on the accessing  of such personal  data, through appropriate  logs,\n      monitoring and  review,  for  enabling  detection  of  unauthorised  access,  its\n       investigation and remediation to prevent recurrence;\n    (d) reasonable measures for continued processing  in the event of confidentiality,\n        integrity or availability of such personal data being compromised as a result of\n       destruction or loss of access to personal data or otherwise, including by way of data-\n      backups;\n    (e) for enabling the detection of unauthorised access, its investigation, remediation to\n      prevent recurrence and continued processing in the event of such a compromise,\n       retain such logs and personal data for a period of one year, unless compliance with\n      any law for the time being in force requires otherwise;\n     (f) appropriate provision in the contract entered into between such Data Fiduciary and\n      such a Data Processor for taking reasonable security safeguards; and\n    (g) appropriate technical and organisational measures to ensure effective observance\n       of security safeguards.\n\n(2) In this rule, the expression “computer resource” shall have the same meaning as is\nassigned to it in Information Technology Act, 2000 (21 of 2000)."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_6",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "6. Reasonable security safeguards. — (1) A Data Fiduciary shall protect personal data in its possession or\nunder its control, including in respect of any processing undertaken by  it or on its behalf by a Data\nProcessor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at\nthe minimum, —\n    (a) appropriate  data  security measures, such  as securing  of  personal  data through  encryption,\n        obfuscation, masking or the use of virtual tokens mapped to that personal data;\n    (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or\n       such a Data Processor, wherever applicable;\n    (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review,\n        for enabling detection of unauthorised  access,  its  investigation and remediation  to prevent\n        recurrence;\n    (d) reasonable measures  for continued  processing  in  the  event  of  confidentiality,  integrity  or\n         availability of such personal data being compromised as a result of destruction or loss of access to\n        personal data or otherwise, such as by way of data-backups;\n    (e) for enabling the  detection of unauthorised  access,  its  investigation, remediation  to prevent\n        recurrence and continued processing in the event of such a compromise, retain such logs and\n        personal data for a period of one year, unless compliance with any law for the time being in force\n        requires otherwise;\n     (f)  appropriate provision in the contract entered into between such Data Fiduciary and such a Data\n        Processor, wherever applicable, for taking reasonable security safeguards; and\n    (g) appropriate technical and organisational measures to ensure effective observance of security\n        safeguards.\n\n(2) In this rule, the expression “computer resource” shall have the same meaning as is assigned to it in\nInformation Technology Act, 2000 (21 of 2000)."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 7,
+      "final_rule_number": 7,
+      "draft_title": "Intimation of personal data breach",
+      "final_title": "Intimation of personal data breach.",
+      "change_status": "modified",
+      "change_count": 7,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "breach.—(1)",
+          "final_text": "breach. — (1)",
+          "draft_word_range": [
+            4,
+            5
+          ],
+          "final_word_range": [
+            4,
+            7
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Fiduciary,—",
+          "final_text": "Fiduciary, —",
+          "draft_word_range": [
+            54,
+            55
+          ],
+          "final_word_range": [
+            56,
+            58
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "and location",
+          "final_text": "",
+          "draft_word_range": [
+            68,
+            70
+          ],
+          "final_word_range": [
+            71,
+            71
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Board,—",
+          "final_text": "Board, —",
+          "draft_word_range": [
+            158,
+            159
+          ],
+          "final_word_range": [
+            159,
+            161
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "same,",
+          "final_text": "breach,",
+          "draft_word_range": [
+            189,
+            190
+          ],
+          "final_word_range": [
+            191,
+            192
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "behalf,—",
+          "final_text": "behalf, —",
+          "draft_word_range": [
+            208,
+            209
+          ],
+          "final_word_range": [
+            210,
+            212
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "(3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which such Data Principal is able to access the services of such Data Fiduciary.",
+          "final_text": "",
+          "draft_word_range": [
+            276,
+            326
+          ],
+          "final_word_range": [
+            279,
+            279
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_7",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "7. Intimation of personal data breach.—(1) On becoming aware of any personal data\nbreach, the Data Fiduciary shall, to the best of its knowledge, intimate to each affected\nData Principal, in a concise, clear and plain manner and without delay, through her user\naccount or any mode of communication registered by her with the Data Fiduciary,—\n[भाग II—खण् ड 3(i)]                   भारत का रािपत्र : असाधारण                                 31\n\n    (a) a description of the breach, including its nature, extent and the timing and location\n       of its occurrence;\n    (b) the consequences relevant to her, that are likely to arise from the breach;\n    (c) the measures implemented and being implemented by the Data Fiduciary, if any, to\n       mitigate risk;\n    (d) the safety measures that she may take to protect her interests; and\n    (e) business contact information of a person who is able to respond on behalf of the\n      Data Fiduciary, to queries, if any, of the Data Principal.\n\n(2) On becoming aware of any personal data breach, the Data Fiduciary shall intimate to\nthe Board,—\n    (a) without delay, a description of the breach, including its nature, extent, timing and\n       location of occurrence and the likely impact;\n    (b) within seventy-two hours of becoming aware of the same, or within such longer\n      period as the Board may allow on a request made in writing in this behalf,—\n           (i)  updated and detailed information in respect of such description;\n            (ii)  the broad facts related to the events, circumstances and reasons leading to\n           the breach;\n             (iii) measures implemented or proposed, if any, to mitigate risk;\n          (iv) any findings regarding the person who caused the breach;\n         (v) remedial measures taken to prevent recurrence of such breach; and\n          (vi) a report regarding the intimations given to affected Data Principals.\n\n(3) In this rule, “user account” means the online account registered by the Data Principal\nwith the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile\nnumber and other similar presences by means of which such Data Principal is able to\naccess the services of such Data Fiduciary."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_7",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "7. Intimation of personal data breach. — (1) On becoming aware of any personal data breach, the Data\nFiduciary shall, to the best of its knowledge, intimate to each affected Data Principal, in a concise, clear and\nplain manner and without delay, through her user account or any mode of communication registered by her\nwith the Data Fiduciary, —\n    (a) a description of the breach, including its nature, extent and the timing of its occurrence;\n    (b) the consequences relevant to her, that are likely to arise from the breach;\n    (c) the measures implemented and being implemented by the Data Fiduciary, if any, to mitigate risk;\n    (d) the safety measures that she may take to protect her interests; and\n    (e) business contact information of a person who is able to respond on behalf of the Data Fiduciary, to\n        queries, if any, of the Data Principal.\n\n(2) On becoming aware of any personal data breach, the Data Fiduciary shall intimate to the Board, —\n    (a) without delay, a description of the breach, including its nature, extent, timing and location of\n       occurrence and the likely impact;\n    (b) within seventy-two hours of becoming aware of the breach, or within such longer period as the\n       Board may allow on a request made in writing in this behalf, —\n\n            (i)  updated and detailed information in respect of such description;\n\n            (ii)  the broad facts related to the events, circumstances and reasons leading to the breach;\n\n            (iii) measures implemented or proposed, if any, to mitigate risk;\n\n          (iv) any findings regarding the person who caused the breach;\n\n         (v)  remedial measures taken to prevent recurrence of such breach; and\n\n          (vi) a report regarding the intimations given to affected Data Principals.\n[भाग II—खण् ड  3(i)]                   भारत का रािपत्र : असाधारण                             27"
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 9,
+      "final_rule_number": 9,
+      "draft_title": "Contact information of person to answer questions about processing",
+      "final_title": "Contact information of person to answer questions about processing",
+      "change_status": "modified",
+      "change_count": 1,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "processing.—Every",
+          "final_text": "processing.— Every",
+          "draft_word_range": [
+            8,
+            9
+          ],
+          "final_word_range": [
+            8,
+            10
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_9",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "9. Contact information of person to answer questions about processing.—Every Data\nFiduciary shall prominently publish on its website or app, and mention in every response\nto a communication for the exercise of the rights of a Data Principal under the Act, the\nbusiness contact information of the Data Protection Officer, if applicable, or a person who\nis able to answer on behalf of the Data Fiduciary the questions of the Data Principal about\nthe processing of her personal data."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_9",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "9. Contact information of person to answer questions about processing.— Every Data Fiduciary shall\nprominently publish on its website or app, and mention in every response to a communication for the\nexercise of the rights of a Data Principal under the Act, the business contact information of the Data\nProtection Officer, if applicable, or a person who is able to answer on behalf of the Data Fiduciary the\nquestions of the Data Principal about the processing of her personal data."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 11,
+      "final_rule_number": 12,
+      "draft_title": "Exemptions from certain obligations applicable to processing of personal data",
+      "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+      "change_status": "modified",
+      "change_count": 1,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "child.—(1)",
+          "final_text": "child. — (1)",
+          "draft_word_range": [
+            11,
+            12
+          ],
+          "final_word_range": [
+            11,
+            14
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_11",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "11. Exemptions from certain obligations applicable to processing of personal data\nof child.—(1) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be\napplicable to processing of personal data of a child by such class of Data Fiduciaries as\nare specified in Part A of Fourth Schedule, subject to such conditions as are specified in\nthe said Part.\n\n(2) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable\nto processing of personal data of a child for such purposes as are specified in Part B of\nFourth Schedule, subject to such conditions as are specified in the said Part."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_12",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "12. Exemptions from certain obligations applicable to processing of personal data of child. — (1) The\nprovisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable to processing of\npersonal data of a child by such class of Data Fiduciaries as are specified in Part A of Fourth Schedule,\nsubject to such conditions as are specified in the said Part.\n(2) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable to processing of\npersonal data of a child for such purposes as are specified in Part B of Fourth Schedule, subject to such\nconditions as are specified in the said Part."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 12,
+      "final_rule_number": 13,
+      "draft_title": "Additional obligations of Significant Data Fiduciary",
+      "final_title": "Additional obligations of Significant Data Fiduciary.",
+      "change_status": "modified",
+      "change_count": 6,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Fiduciary.—(1)",
+          "final_text": "Fiduciary. — (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "technical measures including",
+          "draft_word_range": [
+            112,
+            112
+          ],
+          "final_word_range": [
+            114,
+            117
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "deployed",
+          "final_text": "adopted",
+          "draft_word_range": [
+            114,
+            115
+          ],
+          "final_word_range": [
+            119,
+            120
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Government",
+          "final_text": "Government,",
+          "draft_word_range": [
+            164,
+            165
+          ],
+          "final_word_range": [
+            169,
+            170
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "it",
+          "final_text": "it,",
+          "draft_word_range": [
+            176,
+            177
+          ],
+          "final_word_range": [
+            181,
+            182
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "(5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Department of the Central Government.",
+          "draft_word_range": [
+            203,
+            203
+          ],
+          "final_word_range": [
+            208,
+            251
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_12",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "12. Additional obligations of Significant Data Fiduciary.—(1) A Significant Data\nFiduciary shall, once in every period of twelve months from the date on which it is notified\nas such or is included in the class of Data Fiduciaries notified as such, undertake a Data\nProtection Impact Assessment and an audit to ensure effective observance of the\nprovisions of this Act and the rules made thereunder.\n(2) A Significant Data Fiduciary shall cause the person carrying out the Data Protection\nImpact Assessment and audit to furnish to the Board a report containing significant\nobservations in the Data Protection Impact Assessment and audit.\n\n(3) A Significant Data Fiduciary shall observe due diligence to verify that algorithmic\nsoftware  deployed  by   it  for  hosting,  display,  uploading,  modification,  publishing,\ntransmission, storage, updating or sharing of personal data processed by it are not likely\nto pose a risk to the rights of Data Principals.\n\n(4) A Significant Data Fiduciary shall undertake measures to ensure that personal data\nspecified by the Central Government on the basis of the recommendations of a committee\nconstituted by it is processed subject to the restriction that the personal data and the traffic\ndata pertaining to its flow is not transferred outside the territory of India."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_13",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "13. Additional obligations of Significant Data Fiduciary. — (1) A Significant Data Fiduciary shall, once\nin every period of twelve months from the date on which it is notified as such or is included in the class of\nData Fiduciaries notified as such, undertake a Data Protection Impact Assessment and an audit to ensure\neffective observance of the provisions of this Act and the rules made thereunder.\n(2) A Significant Data Fiduciary shall cause the person carrying out the Data Protection Impact Assessment\nand audit to furnish to the Board a report containing significant observations in the Data Protection Impact\nAssessment and audit.\n(3) A Significant Data Fiduciary shall observe due diligence to verify that technical measures including\nalgorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission,\nstorage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of\nData Principals.\n(4) A Significant Data Fiduciary shall undertake measures to ensure that personal data specified by the\nCentral Government, on the basis of the recommendations of a committee constituted by it, is processed\nsubject to the restriction that the personal data and the traffic data pertaining to its flow is not transferred\noutside the territory of India.\n(5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of\nthis rule, which shall include officials from the Ministry of Electronics and Technology and may include\nofficials from other Ministries or Department of the Central Government."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 13,
+      "final_rule_number": 14,
+      "draft_title": "Rights of Data Principals",
+      "final_title": "Rights of Data Principals.",
+      "change_status": "modified",
+      "change_count": 10,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Principals.—",
+          "final_text": "Principals. —",
+          "draft_word_range": [
+            3,
+            4
+          ],
+          "final_word_range": [
+            3,
+            5
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "prominently",
+          "draft_word_range": [
+            26,
+            26
+          ],
+          "final_word_range": [
+            27,
+            28
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Act to access information about personal data and its erasure,",
+          "final_text": "Act,",
+          "draft_word_range": [
+            102,
+            112
+          ],
+          "final_word_range": [
+            104,
+            105
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "published",
+          "final_text": "required",
+          "draft_word_range": [
+            141,
+            142
+          ],
+          "final_word_range": [
+            134,
+            135
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "prominently",
+          "draft_word_range": [
+            160,
+            160
+          ],
+          "final_word_range": [
+            153,
+            154
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "the",
+          "final_text": "within a reasonable",
+          "draft_word_range": [
+            173,
+            174
+          ],
+          "final_word_range": [
+            167,
+            170
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "not exceeding ninety days",
+          "draft_word_range": [
+            175,
+            175
+          ],
+          "final_word_range": [
+            171,
+            175
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Act to nominate,",
+          "final_text": "Act,",
+          "draft_word_range": [
+            219,
+            222
+          ],
+          "final_word_range": [
+            219,
+            220
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "published",
+          "final_text": "required",
+          "draft_word_range": [
+            254,
+            255
+          ],
+          "final_word_range": [
+            252,
+            253
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "ID",
+          "final_text": "ID, email address, mobile number",
+          "draft_word_range": [
+            303,
+            304
+          ],
+          "final_word_range": [
+            301,
+            306
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_13",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "13. Rights of Data Principals.— (1) For enabling Data Principals to exercise their rights\nunder the Act, the Data Fiduciary and, where applicable, the Consent Manager, shall\npublish on its website or app, or both, as the case may be, —\n    (a) the details of the means using which a Data Principal may make a request for the\n      exercise of such rights; and\n    (b) the particulars,  if any, such as the username or other identifier of such a Data\n       Principal, which may be required to identify her under its terms of service.\n\n(2) To exercise the rights of the Data Principal under the Act to access information about\npersonal data and its erasure, she may make a request to the Data Fiduciary to whom she\nhas previously given consent for processing of her personal data, using the means and\nfurnishing the particulars published by such Data Fiduciary for the exercise of such rights.\n\n(3) Every Data Fiduciary and Consent Manager shall publish on its website or app, or both,\nas the case may be, the period under its grievance redressal system for responding to the\ngrievances of Data Principals and shall, for ensuring the effectiveness of the system in\n[भाग II—खण् ड 3(i)]                   भारत का रािपत्र : असाधारण                                 35\n\nresponding  within such  period, implement appropriate  technical and  organisational\nmeasures.\n\n(4) To exercise the rights of the Data Principal under the Act to nominate, she may, in\naccordance with the terms of service of the Data Fiduciary and such law as may be\napplicable, nominate one or more  individuals, using the means and furnishing the\nparticulars published by such Data Fiduciary for the exercise of such right.\n\n(5) In this rule, the expression “identifier” shall mean any sequence of characters issued\nby the Data Fiduciary to identify the Data Principal and includes a customer identification\nfile number, customer acquisition form number, application reference number, enrolment\nID or licence number that enables such identification."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_14",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "14. Rights of Data Principals. — (1) For enabling Data Principals to exercise their rights under the Act,\nthe Data Fiduciary and, where applicable, the Consent Manager, shall prominently publish on its website or\napp, or both, as the case may be, —\n\n    (a) the details of the means using which a Data Principal may make a request for the exercise of such\n         rights; and\n\n    (b) the particulars, if any, such as the username or other identifier of such a Data Principal, which may\n       be required to identify her under its terms of service.\n\n(2) To exercise the rights of the Data Principal under the Act, she may make a request to the Data Fiduciary\nto whom she has previously given consent for processing of her personal data, using the means and\nfurnishing the particulars required by such Data Fiduciary for the exercise of such rights.\n(3) Every Data Fiduciary and Consent Manager shall prominently publish on its website or app, or both, as\nthe case may be, within a reasonable period not exceeding ninety days under its grievance redressal system\nfor responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in\nresponding within such period, implement appropriate technical and organisational measures.\n(4) To exercise the rights of the Data Principal under the Act, she may, in accordance with the terms of\nservice of the Data Fiduciary and such law as may be applicable, nominate one or more individuals, using\nthe means and furnishing the particulars required by such Data Fiduciary for the exercise of such right.\n(5) In this rule, the expression “identifier” shall mean any sequence of characters issued by the Data\nFiduciary to identify the Data Principal and includes a customer identification file number, customer\nacquisition form number, application reference number, enrolment ID, email address, mobile number or\nlicence number that enables such identification."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 15,
+      "final_rule_number": 16,
+      "draft_title": "Exemption from Act for research, archiving or  statistical purposes",
+      "final_title": "Exemption from Act for research, archiving or statistical purposes.",
+      "change_status": "modified",
+      "change_count": 1,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "purposes.—The",
+          "final_text": "purposes. —The",
+          "draft_word_range": [
+            8,
+            9
+          ],
+          "final_word_range": [
+            8,
+            10
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_15",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "15. Exemption from Act for research, archiving or  statistical purposes.—The\nprovisions of the Act shall not apply to the processing of personal data necessary for\nresearch, archiving or statistical purposes if it is carried on in accordance with the standards\nspecified in Second Schedule."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_16",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "16. Exemption from Act for research, archiving or statistical purposes. —The provisions of the Act\nshall not apply to the processing of personal data necessary for research, archiving or statistical purposes if\nit is carried on in accordance with the standards specified in Second Schedule."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 16,
+      "final_rule_number": 17,
+      "draft_title": "Appointment of Chairperson and other Members",
+      "final_title": "Appointment of Chairperson and other Members",
+      "change_status": "modified",
+      "change_count": 3,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Appointment",
+          "final_text": "17.Appointment",
+          "draft_word_range": [
+            0,
+            1
+          ],
+          "final_word_range": [
+            0,
+            1
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Members.—(1)",
+          "final_text": "Members.— (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            7
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "and (2)",
+          "draft_word_range": [
+            208,
+            208
+          ],
+          "final_word_range": [
+            209,
+            211
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_16",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "16. Appointment of Chairperson and other Members.—(1) The Central Government\nshall constitute a Search-cum-Selection Committee, with the Cabinet Secretary as the\nchairperson and the Secretaries to the Government of India in charge of the Department\nof Legal Affairs and the Ministry of Electronics and Information Technology and two experts\nof repute having special knowledge or practical experience in a field which in the opinion\nof the Central Government may be useful to the Board as members, to recommend\nindividuals for appointment as Chairperson.\n\n(2) The Central Government shall constitute a Search-cum-Selection Committee, with the\nSecretary to the Government of India in the Ministry of Electronics and Information\nTechnology as the chairperson and the Secretary to the Government of India in charge of\nthe Department of Legal Affairs, and two experts of repute having special knowledge or\npractical experience in a field which in the opinion of the Central Government may be useful\nto the Board as members, to recommend individuals for appointment as a Member other\nthan the Chairperson.\n\n(3) The  Central Government  shall,  after  considering  the  suitability  of  individuals\nrecommended by the Search-cum-Selection Committee, appoint the Chairperson or other\nMember, as the case may be.\n\n(4) No act or proceeding of the Search-cum-Selection Committee specified in sub-rules (1)\n\nof this rule shall be called in question on the ground merely of the existence of any vacancy\nor absences in such committee or defect in its constitution."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_17",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "17.Appointment of Chairperson and other Members.— (1) The Central Government shall constitute a\nSearch-cum-Selection Committee, with the Cabinet Secretary as the chairperson and the Secretaries to the\nGovernment of India in charge of the Department of Legal Affairs and the Ministry of Electronics and\nInformation Technology and two experts of repute having special knowledge or practical experience in a\nfield which in the opinion of the Central Government may be useful to the Board as members, to\nrecommend individuals for appointment as Chairperson.\n(2) The Central Government shall constitute a Search-cum-Selection Committee, with the Secretary to the\nGovernment of India in the Ministry of Electronics and Information Technology as the chairperson and the\nSecretary to the Government of India in charge of the Department of Legal Affairs, and two experts of\nrepute having special knowledge or practical experience in a field which in the opinion of the Central\nGovernment may be useful to the Board as members, to recommend individuals for appointment as a\nMember other than the Chairperson.\n(3) The Central Government shall, after considering the suitability of individuals recommended by the\nSearch-cum-Selection Committee, appoint the Chairperson or other Member, as the case may be.\n(4) No act or proceeding of the Search-cum-Selection Committee specified in sub-rules (1) and (2) of this\nrule shall be called in question on the ground merely of the existence of any vacancy or absences in such\ncommittee or defect in its constitution."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 17,
+      "final_rule_number": 18,
+      "draft_title": "Salary, allowances and other terms and conditions of service of Chairperson and",
+      "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+      "change_status": "modified",
+      "change_count": 1,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Members.—The",
+          "final_text": "Members. —The",
+          "draft_word_range": [
+            13,
+            14
+          ],
+          "final_word_range": [
+            13,
+            15
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_17",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "17. Salary, allowances and other terms and conditions of service of Chairperson and\nother Members.—The Chairperson and every other Member shall receive such salary and\nallowances and shall have such other terms and conditions of service as are specified in\nFifth Schedule."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_18",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "18. Salary, allowances and other terms and conditions of service of Chairperson and other Members.\n—The Chairperson and every other Member shall receive such salary and allowances and shall have such\nother terms and conditions of service as are specified in Fifth Schedule."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 18,
+      "final_rule_number": 19,
+      "draft_title": "Procedure for meetings of Board and authentication of its orders, directions and",
+      "final_title": "Procedure for meetings of Board and authentication of its orders, directions and instruments.",
+      "change_status": "modified",
+      "change_count": 2,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "instruments.—(1)",
+          "final_text": "instruments. — (1)",
+          "draft_word_range": [
+            12,
+            13
+          ],
+          "final_word_range": [
+            12,
+            15
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "it by",
+          "final_text": "it,by",
+          "draft_word_range": [
+            330,
+            332
+          ],
+          "final_word_range": [
+            332,
+            333
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_18",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "18. Procedure for meetings of Board and authentication of its orders, directions and\ninstruments.—(1) The Chairperson shall fix the date, time and place of meetings of the\nBoard, approve the items of agenda therefor, and cause notice specifying the same to be\nissued under her signature or that of such other individual as the Chairperson may\nauthorise by general or special order in writing.\n\n(2) Meetings of the Board shall be chaired by the Chairperson and, in her absence, by such\nother Member as the Members present at the meeting may choose from amongst\nthemselves.\n\n(3) One-third of the membership of the Board shall be the quorum for its meetings.\n\n(4) All questions which come up before any meeting of the Board shall be decided by a\nmajority of the votes of Members present and voting, and, in the event of an equality of\nvotes, the Chairperson, or in her absence, the person chairing, shall have a second or\ncasting vote.\n\n(5) If a Member has an interest in any item of business to be transacted at a meeting of the\nBoard, she shall not participate in or vote on the same and, in such a case, the decision on\nsuch item shall be taken by a majority of the votes of other Members present and voting.\n\n(6) In case an emergent situation warrants immediate action by the Board and  it is not\nfeasible to call a meeting of the Board, the Chairperson may, while recording the reasons\nin writing, take such action as may be necessary, which shall be communicated within\nseven days to all Members and laid before the Board for ratification at its next meeting.\n\n(7) If the Chairperson so directs, an item of business or issue which requires decision of\nthe Board may be referred to Members by circulation and such item may be decided with\nthe approval of majority of the Members.\n\n(8) The Chairperson or any Member of the Board, or any individual authorised by  it by a\ngeneral or special order in writing, may, under her signature, authenticate  its order,\ndirection or instrument.\n\n(9) The inquiry by the Board shall be completed within a period of six months from the date\nof receipt of the intimation, complaint, reference or direction under section 27 of the Act,\nunless such period is extended by it, for reasons to be recorded in writing, for a further\nperiod not exceeding three months at a time."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_19",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "19. Procedure for meetings of Board and authentication of its orders, directions and instruments. —\n[भाग II—खण् ड  3(i)]                   भारत का रािपत्र : असाधारण                             31\n\n(1) The Chairperson shall fix the date, time and place of meetings of the Board, approve the items of\nagenda therefor, and cause notice specifying the same to be issued under her signature or that of such other\nindividual as the Chairperson may authorise by general or special order in writing.\n(2) Meetings of the Board shall be chaired by the Chairperson and, in her absence, by such other Member\nas the Members present at the meeting may choose from amongst themselves.\n(3) One-third of the membership of the Board shall be the quorum for its meetings.\n(4) All questions which come up before any meeting of the Board shall be decided by a majority of the\nvotes of Members present and voting, and, in the event of an equality of votes, the Chairperson, or in her\nabsence, the person chairing, shall have a second or casting vote.\n(5) If a Member has an interest in any item of business to be transacted at a meeting of the Board, she shall\nnot participate in or vote on the same and, in such a case, the decision on such item shall be taken by a\nmajority of the votes of other Members present and voting.\n(6) In case an emergent situation warrants immediate action by the Board and it is not feasible to call a\nmeeting of the Board, the Chairperson may, while recording the reasons in writing, take such action as may\nbe necessary, which shall be communicated within seven days to all Members and laid before the Board for\nratification at its next meeting.\n(7) If the Chairperson so directs, an item of business or issue which requires decision of the Board may be\nreferred to Members by circulation and such item may be decided with the approval of majority of the\nMembers.\n(8) The Chairperson or any Member of the Board, or any individual authorised by it,by a general or special\norder in writing, may, under her signature, authenticate its order, direction or instrument.\n(9) The inquiry by the Board shall be completed within a period of six months from the date of receipt of\nthe intimation, complaint, reference or direction under section 27 of the Act, unless such period is extended\nby it, for reasons to be recorded in writing, for a further period not exceeding three months at a time."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 19,
+      "final_rule_number": 20,
+      "draft_title": "Functioning of Board as digital office",
+      "final_title": "Functioning of Board as digital office.",
+      "change_status": "modified",
+      "change_count": 2,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "office.—The",
+          "final_text": "office. — The",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "office which,",
+          "final_text": "office,",
+          "draft_word_range": [
+            12,
+            14
+          ],
+          "final_word_range": [
+            14,
+            15
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_19",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "19. Functioning of Board as digital office.—The Board shall function as a digital office\nwhich, without prejudice to its power to summon and enforce the attendance of any person\nand examine her on oath, may adopt techno-legal measures to conduct proceedings in a\nmanner that does not require physical presence of any individual.\n[भाग II—खण् ड 3(i)]                   भारत का रािपत्र : असाधारण                                 37"
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_20",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "20. Functioning of Board as digital office. — The Board shall function as a digital office, without\nprejudice to its power to summon and enforce the attendance of any person and examine her on oath, may\nadopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of\nany individual."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 20,
+      "final_rule_number": 21,
+      "draft_title": "Terms and conditions of appointment and service of officers and employees of",
+      "final_title": "Terms and conditions of appointment and service of officers and employees of Board",
+      "change_status": "modified",
+      "change_count": 2,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Board.—(1)",
+          "final_text": "Board.— (1)",
+          "draft_word_range": [
+            12,
+            13
+          ],
+          "final_word_range": [
+            12,
+            14
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Government and in such manner as the Central Government may by general or special order specify,",
+          "final_text": "Government,",
+          "draft_word_range": [
+            22,
+            38
+          ],
+          "final_word_range": [
+            23,
+            24
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_20",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "20. Terms and conditions of appointment and service of officers and employees of\nBoard.—(1) The Board may, with previous approval of the Central Government and in\nsuch manner as the Central Government may by general or special order specify, appoint\nsuch officers and employees as it may deem necessary for the efficient discharge of its\nfunctions under the provisions of the Act.\n\n(2) The terms and conditions of service of officers and employees of the Board shall be\nsuch as are specified in Sixth Schedule."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_21",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "21. Terms and conditions of appointment and service of officers and employees of Board.— (1) The\nBoard may, with previous approval of the Central Government, appoint such officers and employees as it\nmay deem necessary for the efficient discharge of its functions under the provisions of the Act.\n(2) The terms and conditions of service of officers and employees of the Board shall be such as are\nspecified in Sixth Schedule."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 21,
+      "final_rule_number": 22,
+      "draft_title": "Appeal to Appellate Tribunal",
+      "final_title": "Appeal to Appellate Tribunal.",
+      "change_status": "modified",
+      "change_count": 7,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Tribunal.—(1) An appeal, including any related documents, by a",
+          "final_text": "Tribunal. — (1) Any",
+          "draft_word_range": [
+            3,
+            12
+          ],
+          "final_word_range": [
+            3,
+            7
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "may prefer an appeal before the Appellate Tribunal, it",
+          "draft_word_range": [
+            22,
+            22
+          ],
+          "final_word_range": [
+            17,
+            26
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "form, following such procedure",
+          "final_text": "form",
+          "draft_word_range": [
+            27,
+            31
+          ],
+          "final_word_range": [
+            31,
+            32
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "may be specified by",
+          "final_text": "",
+          "draft_word_range": [
+            32,
+            36
+          ],
+          "final_word_range": [
+            33,
+            33
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "on its website.",
+          "final_text": "may decide.",
+          "draft_word_range": [
+            39,
+            42
+          ],
+          "final_word_range": [
+            36,
+            38
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "India as the Appellate Tribunal may specify on its website.",
+          "final_text": "India.",
+          "draft_word_range": [
+            116,
+            126
+          ],
+          "final_word_range": [
+            112,
+            113
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "techno- legal",
+          "final_text": "techno-legal",
+          "draft_word_range": [
+            203,
+            205
+          ],
+          "final_word_range": [
+            190,
+            191
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_21",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "21. Appeal to Appellate Tribunal.—(1) An appeal, including any related documents, by a\nperson aggrieved by an order or direction of the Board, shall be filed in digital form,\nfollowing such procedure as may be specified by the Appellate Tribunal on its website.\n\n(2) An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount\nas is applicable in respect of an appeal filed under the Telecom Regulatory Authority of\nIndia Act, 1997 (24 of 1997), unless reduced or waived by the Chairperson of the Appellate\nTribunal at her discretion, and the same shall be payable digitally using the Unified\nPayments Interface or such other payment system authorised by the Reserve Bank of India\nas the Appellate Tribunal may specify on its website.\n\n(3) The Appellate Tribunal—\n    (a) shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908\n       (5 of 1908), but shall be guided by the principles of natural justice and, subject to\n      the provisions of the Act, may regulate its own procedure; and\n    (b) shall function as a digital office which, without prejudice to its power to summon and\n      enforce the attendance of any person and examine her on oath, may adopt techno-\n       legal measures to conduct proceedings in a manner that does not require physical\n      presence of any individual."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_22",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "22. Appeal to Appellate Tribunal. — (1) Any person aggrieved by an order or direction of the Board,\nmay prefer an appeal before the Appellate Tribunal,  it shall be filed in digital form as the Appellate\nTribunal may decide.\n(2) An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount as is applicable\nin respect of an appeal filed under the Telecom Regulatory Authority of India Act, 1997 (24 of 1997),\nunless reduced or waived by the Chairperson of the Appellate Tribunal at her discretion, and the same shall\nbe payable digitally using the Unified Payments Interface or such other payment system authorised by the\nReserve Bank of India.\n(3) The Appellate Tribunal—\n    (a) shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908),\n        but shall be guided by the principles of natural justice and, subject to the provisions of the Act, may\n        regulate its own procedure; and\n\n    (b) shall function as a digital office which, without prejudice to its power to summon and enforce the\n        attendance of any person and examine her on oath, may adopt techno-legal measures to conduct\n       proceedings in a manner that does not require physical presence of any individual."
+      },
+      "review_status": "requires_human_review"
+    },
+    {
+      "draft_rule_number": 22,
+      "final_rule_number": 23,
+      "draft_title": "Calling for information from Data Fiduciary or intermediary",
+      "final_title": "Calling for information from Data Fiduciary or intermediary.",
+      "change_status": "modified",
+      "change_count": 16,
+      "detected_changes": [
+        {
+          "operation": "replace",
+          "draft_text": "intermediary.—(1)",
+          "final_text": "intermediary. — (1)",
+          "draft_word_range": [
+            7,
+            8
+          ],
+          "final_word_range": [
+            7,
+            10
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "specify",
+          "final_text": "within",
+          "draft_word_range": [
+            50,
+            51
+          ],
+          "final_word_range": [
+            52,
+            53
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "time",
+          "final_text": "specified",
+          "draft_word_range": [
+            52,
+            53
+          ],
+          "final_word_range": [
+            54,
+            55
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "within which",
+          "final_text": "as may be given in such. (2) Where",
+          "draft_word_range": [
+            54,
+            56
+          ],
+          "final_word_range": [
+            56,
+            64
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "same shall be furnished and, where",
+          "final_text": "",
+          "draft_word_range": [
+            57,
+            63
+          ],
+          "final_word_range": [
+            65,
+            65
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "of furnishing of information as referred to",
+          "draft_word_range": [
+            64,
+            64
+          ],
+          "final_word_range": [
+            66,
+            73
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "this regard",
+          "final_text": "sub-rule (1)",
+          "draft_word_range": [
+            65,
+            67
+          ],
+          "final_word_range": [
+            74,
+            76
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "the Central Government may",
+          "draft_word_range": [
+            83,
+            83
+          ],
+          "final_word_range": [
+            92,
+            96
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "the same",
+          "final_text": "such furnishing to affected Data Principal or any other person",
+          "draft_word_range": [
+            92,
+            94
+          ],
+          "final_word_range": [
+            105,
+            115
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "permission",
+          "final_text": "permission,",
+          "draft_word_range": [
+            98,
+            99
+          ],
+          "final_word_range": [
+            119,
+            120
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "writing",
+          "final_text": "writing,",
+          "draft_word_range": [
+            100,
+            101
+          ],
+          "final_word_range": [
+            121,
+            122
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "(2) Provision",
+          "final_text": "(3) For the purposes",
+          "draft_word_range": [
+            105,
+            107
+          ],
+          "final_word_range": [
+            126,
+            130
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "information called for under",
+          "final_text": "",
+          "draft_word_range": [
+            108,
+            112
+          ],
+          "final_word_range": [
+            131,
+            131
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "rule",
+          "final_text": "rule, the expression “intermediary”",
+          "draft_word_range": [
+            113,
+            114
+          ],
+          "final_word_range": [
+            132,
+            136
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "be by way",
+          "final_text": "have the same meaning as assigned to it in the Information Technology Act, 2000 (21",
+          "draft_word_range": [
+            115,
+            118
+          ],
+          "final_word_range": [
+            137,
+            152
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "fulfilment of obligation under section 36 of the Act.",
+          "final_text": "2000).",
+          "draft_word_range": [
+            119,
+            128
+          ],
+          "final_word_range": [
+            153,
+            154
+          ]
+        }
+      ],
+      "draft_source": {
+        "rule_id": "dpdp_draft_2025_rule_22",
+        "source_file": "dpdp_draft_2025_sections.json",
+        "text": "22. Calling for information from Data Fiduciary or intermediary.—(1) The Central\nGovernment may, for such purposes of the Act as are specified in Seventh Schedule,\nacting through the corresponding authorised person specified in the said Schedule, require\nany Data Fiduciary or intermediary to furnish such information as may be called for, specify\nthe time period within which the same shall be furnished and, where disclosure in this\nregard is likely to prejudicially affect the sovereignty and integrity of India or security of the\nState, require the Data Fiduciary or intermediary to not disclose the same except with the\nprevious permission in writing of the authorised person.\n\n(2) Provision of information called for under this rule shall be by way of fulfilment of\nobligation under section 36 of the Act."
+      },
+      "final_source": {
+        "rule_id": "dpdp_final_2025_rule_23",
+        "source_file": "dpdp_final_2025_sections.json",
+        "text": "23. Calling for information from Data Fiduciary or intermediary. — (1) The Central Government may,\nfor such purposes of the Act as are specified in Seventh Schedule, acting through the corresponding\nauthorised person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such\ninformation as may be called for, within the specified period as may be given in such.\n(2) Where the disclosure of furnishing of information as referred to in sub-rule (1) is likely to prejudicially\naffect the sovereignty and integrity of India or security of the State, the Central Government may require\nthe Data Fiduciary or intermediary to not disclose such furnishing to affected Data Principal or any other\nperson except with the previous permission, in writing, of the authorised person.\n(3) For the purposes of this rule, the expression “intermediary” shall have the same meaning as assigned to\nit in the Information Technology Act, 2000 (21 of 2000)."
+      },
+      "review_status": "requires_human_review"
+    }
+  ],
+  "pending_review": [
+    {
+      "draft_rule_number": 1,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 2,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 8,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 10,
+      "reason": "Alignment requires manual review",
+      "relationship": "possible_split",
+      "confidence_level": "medium"
+    },
+    {
+      "draft_rule_number": 14,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    }
+  ],
+  "pending_alignment_count": 5,
+  "alignment_conflicts": []
+}

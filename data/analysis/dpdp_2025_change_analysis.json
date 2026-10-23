@@ -1,0 +1,1389 @@
+{
+  "draft_rule_count": 22,
+  "final_rule_count": 23,
+  "analyzed_rule_count": 17,
+  "modified_rule_count": 17,
+  "pending_review_count": 5,
+  "analyzed_rules": [
+    {
+      "draft_rule_number": 3,
+      "final_rule_number": 3,
+      "draft_title": "Notice given by Data Fiduciary to Data Principal",
+      "final_title": "Notice given by Data Fiduciary to Data Principal.",
+      "status": "modified",
+      "similarity": 0.9674,
+      "change_count": 5,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Principal.—The",
+          "final_text": "Principal. —The",
+          "draft_word_range": [
+            7,
+            8
+          ],
+          "final_word_range": [
+            7,
+            9
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "minimum,—",
+          "final_text": "minimum, —",
+          "draft_word_range": [
+            80,
+            81
+          ],
+          "final_word_range": [
+            81,
+            83
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "or purposes",
+          "draft_word_range": [
+            94,
+            94
+          ],
+          "final_word_range": [
+            96,
+            98
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "an itemised",
+          "final_text": "specific",
+          "draft_word_range": [
+            96,
+            98
+          ],
+          "final_word_range": [
+            100,
+            101
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "give,",
+          "draft_word_range": [
+            117,
+            117
+          ],
+          "final_word_range": [
+            120,
+            121
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9645
+    },
+    {
+      "draft_rule_number": 4,
+      "final_rule_number": 4,
+      "draft_title": "Registration and obligations of Consent Manager",
+      "final_title": "Registration and obligations of Consent Manager.",
+      "status": "modified",
+      "similarity": 0.9783,
+      "change_count": 4,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Manager.—(1)",
+          "final_text": "Manager. — (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "rule, it",
+          "final_text": "rule,it",
+          "draft_word_range": [
+            174,
+            176
+          ],
+          "final_word_range": [
+            176,
+            177
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "non-adherence",
+          "final_text": "non- adherence",
+          "draft_word_range": [
+            190,
+            191
+          ],
+          "final_word_range": [
+            191,
+            193
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "writing,—",
+          "final_text": "writing, —",
+          "draft_word_range": [
+            241,
+            242
+          ],
+          "final_word_range": [
+            243,
+            245
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9991
+    },
+    {
+      "draft_rule_number": 5,
+      "final_rule_number": 5,
+      "draft_title": "Processing for provision or issue of subsidy, benefit, service, certificate, licence",
+      "final_title": "Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or",
+      "status": "modified",
+      "similarity": 0.8931,
+      "change_count": 6,
+      "changes": [
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "of personal data",
+          "draft_word_range": [
+            1,
+            1
+          ],
+          "final_word_range": [
+            1,
+            4
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "instrumentalities.—(1) The State and any of its instrumentalities may process",
+          "final_text": "instrumentalities. — (1) Processing",
+          "draft_word_range": [
+            17,
+            27
+          ],
+          "final_word_range": [
+            20,
+            24
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "under clause (b) of section 7 of the Act to provide or to issue to her any subsidy, benefit, service, certificate, licence or permit that is provided or issued under law or policy or using public funds. (2) Processing",
+          "final_text": "",
+          "draft_word_range": [
+            34,
+            73
+          ],
+          "final_word_range": [
+            31,
+            31
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "(3)",
+          "final_text": "(2)",
+          "draft_word_range": [
+            86,
+            87
+          ],
+          "final_word_range": [
+            44,
+            45
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "the",
+          "draft_word_range": [
+            91,
+            91
+          ],
+          "final_word_range": [
+            49,
+            50
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "to,—",
+          "final_text": "to, —",
+          "draft_word_range": [
+            238,
+            239
+          ],
+          "final_word_range": [
+            197,
+            199
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9061
+    },
+    {
+      "draft_rule_number": 6,
+      "final_rule_number": 6,
+      "draft_title": "Reasonable security safeguards",
+      "final_title": "Reasonable security safeguards.",
+      "status": "modified",
+      "similarity": 0.9481,
+      "change_count": 10,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "safeguards.—(1)",
+          "final_text": "safeguards. — (1)",
+          "draft_word_range": [
+            2,
+            3
+          ],
+          "final_word_range": [
+            2,
+            5
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "minimum,—",
+          "final_text": "minimum, —",
+          "draft_word_range": [
+            49,
+            50
+          ],
+          "final_word_range": [
+            51,
+            53
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "including",
+          "final_text": "such as",
+          "draft_word_range": [
+            55,
+            56
+          ],
+          "final_word_range": [
+            58,
+            60
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "such",
+          "final_text": "",
+          "draft_word_range": [
+            58,
+            59
+          ],
+          "final_word_range": [
+            62,
+            62
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "its",
+          "final_text": "",
+          "draft_word_range": [
+            62,
+            63
+          ],
+          "final_word_range": [
+            65,
+            65
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "obfuscation or",
+          "final_text": "obfuscation,",
+          "draft_word_range": [
+            64,
+            66
+          ],
+          "final_word_range": [
+            66,
+            67
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Processor;",
+          "final_text": "Processor, wherever applicable;",
+          "draft_word_range": [
+            97,
+            98
+          ],
+          "final_word_range": [
+            98,
+            101
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "including",
+          "final_text": "such as",
+          "draft_word_range": [
+            160,
+            161
+          ],
+          "final_word_range": [
+            163,
+            165
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "data- backups;",
+          "final_text": "data-backups;",
+          "draft_word_range": [
+            164,
+            166
+          ],
+          "final_word_range": [
+            168,
+            169
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Processor",
+          "final_text": "Processor, wherever applicable,",
+          "draft_word_range": [
+            231,
+            232
+          ],
+          "final_word_range": [
+            234,
+            237
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9857
+    },
+    {
+      "draft_rule_number": 7,
+      "final_rule_number": 7,
+      "draft_title": "Intimation of personal data breach",
+      "final_title": "Intimation of personal data breach.",
+      "status": "modified",
+      "similarity": 0.8893,
+      "change_count": 7,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "breach.—(1)",
+          "final_text": "breach. — (1)",
+          "draft_word_range": [
+            4,
+            5
+          ],
+          "final_word_range": [
+            4,
+            7
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Fiduciary,—",
+          "final_text": "Fiduciary, —",
+          "draft_word_range": [
+            54,
+            55
+          ],
+          "final_word_range": [
+            56,
+            58
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "and location",
+          "final_text": "",
+          "draft_word_range": [
+            68,
+            70
+          ],
+          "final_word_range": [
+            71,
+            71
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Board,—",
+          "final_text": "Board, —",
+          "draft_word_range": [
+            158,
+            159
+          ],
+          "final_word_range": [
+            159,
+            161
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "same,",
+          "final_text": "breach,",
+          "draft_word_range": [
+            189,
+            190
+          ],
+          "final_word_range": [
+            191,
+            192
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "behalf,—",
+          "final_text": "behalf, —",
+          "draft_word_range": [
+            208,
+            209
+          ],
+          "final_word_range": [
+            210,
+            212
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "(3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which such Data Principal is able to access the services of such Data Fiduciary.",
+          "final_text": "",
+          "draft_word_range": [
+            276,
+            326
+          ],
+          "final_word_range": [
+            279,
+            279
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9342
+    },
+    {
+      "draft_rule_number": 9,
+      "final_rule_number": 9,
+      "draft_title": "Contact information of person to answer questions about processing",
+      "final_title": "Contact information of person to answer questions about processing",
+      "status": "modified",
+      "similarity": 0.9809,
+      "change_count": 1,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "processing.—Every",
+          "final_text": "processing.— Every",
+          "draft_word_range": [
+            8,
+            9
+          ],
+          "final_word_range": [
+            8,
+            10
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9994
+    },
+    {
+      "draft_rule_number": 11,
+      "final_rule_number": 12,
+      "draft_title": "Exemptions from certain obligations applicable to processing of personal data",
+      "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+      "status": "modified",
+      "similarity": 0.9823,
+      "change_count": 1,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "child.—(1)",
+          "final_text": "child. — (1)",
+          "draft_word_range": [
+            11,
+            12
+          ],
+          "final_word_range": [
+            11,
+            14
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.976
+    },
+    {
+      "draft_rule_number": 12,
+      "final_rule_number": 13,
+      "draft_title": "Additional obligations of Significant Data Fiduciary",
+      "final_title": "Additional obligations of Significant Data Fiduciary.",
+      "status": "modified",
+      "similarity": 0.8767,
+      "change_count": 6,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Fiduciary.—(1)",
+          "final_text": "Fiduciary. — (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "technical measures including",
+          "draft_word_range": [
+            112,
+            112
+          ],
+          "final_word_range": [
+            114,
+            117
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "deployed",
+          "final_text": "adopted",
+          "draft_word_range": [
+            114,
+            115
+          ],
+          "final_word_range": [
+            119,
+            120
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Government",
+          "final_text": "Government,",
+          "draft_word_range": [
+            164,
+            165
+          ],
+          "final_word_range": [
+            169,
+            170
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "it",
+          "final_text": "it,",
+          "draft_word_range": [
+            176,
+            177
+          ],
+          "final_word_range": [
+            181,
+            182
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "(5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Department of the Central Government.",
+          "draft_word_range": [
+            203,
+            203
+          ],
+          "final_word_range": [
+            208,
+            251
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.933
+    },
+    {
+      "draft_rule_number": 13,
+      "final_rule_number": 14,
+      "draft_title": "Rights of Data Principals",
+      "final_title": "Rights of Data Principals.",
+      "status": "modified",
+      "similarity": 0.9391,
+      "change_count": 10,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Principals.—",
+          "final_text": "Principals. —",
+          "draft_word_range": [
+            3,
+            4
+          ],
+          "final_word_range": [
+            3,
+            5
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "prominently",
+          "draft_word_range": [
+            26,
+            26
+          ],
+          "final_word_range": [
+            27,
+            28
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Act to access information about personal data and its erasure,",
+          "final_text": "Act,",
+          "draft_word_range": [
+            102,
+            112
+          ],
+          "final_word_range": [
+            104,
+            105
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "published",
+          "final_text": "required",
+          "draft_word_range": [
+            141,
+            142
+          ],
+          "final_word_range": [
+            134,
+            135
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "prominently",
+          "draft_word_range": [
+            160,
+            160
+          ],
+          "final_word_range": [
+            153,
+            154
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "the",
+          "final_text": "within a reasonable",
+          "draft_word_range": [
+            173,
+            174
+          ],
+          "final_word_range": [
+            167,
+            170
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "not exceeding ninety days",
+          "draft_word_range": [
+            175,
+            175
+          ],
+          "final_word_range": [
+            171,
+            175
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Act to nominate,",
+          "final_text": "Act,",
+          "draft_word_range": [
+            219,
+            222
+          ],
+          "final_word_range": [
+            219,
+            220
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "published",
+          "final_text": "required",
+          "draft_word_range": [
+            254,
+            255
+          ],
+          "final_word_range": [
+            252,
+            253
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "ID",
+          "final_text": "ID, email address, mobile number",
+          "draft_word_range": [
+            303,
+            304
+          ],
+          "final_word_range": [
+            301,
+            306
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9631
+    },
+    {
+      "draft_rule_number": 15,
+      "final_rule_number": 16,
+      "draft_title": "Exemption from Act for research, archiving or  statistical purposes",
+      "final_title": "Exemption from Act for research, archiving or statistical purposes.",
+      "status": "modified",
+      "similarity": 0.9655,
+      "change_count": 1,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "purposes.—The",
+          "final_text": "purposes. —The",
+          "draft_word_range": [
+            8,
+            9
+          ],
+          "final_word_range": [
+            8,
+            10
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9969
+    },
+    {
+      "draft_rule_number": 16,
+      "final_rule_number": 17,
+      "draft_title": "Appointment of Chairperson and other Members",
+      "final_title": "Appointment of Chairperson and other Members",
+      "status": "modified",
+      "similarity": 0.9853,
+      "change_count": 3,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Appointment",
+          "final_text": "17.Appointment",
+          "draft_word_range": [
+            0,
+            1
+          ],
+          "final_word_range": [
+            0,
+            1
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Members.—(1)",
+          "final_text": "Members.— (1)",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            7
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "and (2)",
+          "draft_word_range": [
+            208,
+            208
+          ],
+          "final_word_range": [
+            209,
+            211
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9977
+    },
+    {
+      "draft_rule_number": 17,
+      "final_rule_number": 18,
+      "draft_title": "Salary, allowances and other terms and conditions of service of Chairperson and",
+      "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+      "status": "modified",
+      "similarity": 0.9639,
+      "change_count": 1,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Members.—The",
+          "final_text": "Members. —The",
+          "draft_word_range": [
+            13,
+            14
+          ],
+          "final_word_range": [
+            13,
+            15
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9641
+    },
+    {
+      "draft_rule_number": 18,
+      "final_rule_number": 19,
+      "draft_title": "Procedure for meetings of Board and authentication of its orders, directions and",
+      "final_title": "Procedure for meetings of Board and authentication of its orders, directions and instruments.",
+      "status": "modified",
+      "similarity": 0.9914,
+      "change_count": 2,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "instruments.—(1)",
+          "final_text": "instruments. — (1)",
+          "draft_word_range": [
+            12,
+            13
+          ],
+          "final_word_range": [
+            12,
+            15
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "it by",
+          "final_text": "it,by",
+          "draft_word_range": [
+            330,
+            332
+          ],
+          "final_word_range": [
+            332,
+            333
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.965
+    },
+    {
+      "draft_rule_number": 19,
+      "final_rule_number": 20,
+      "draft_title": "Functioning of Board as digital office",
+      "final_title": "Functioning of Board as digital office.",
+      "status": "modified",
+      "similarity": 0.9333,
+      "change_count": 2,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "office.—The",
+          "final_text": "office. — The",
+          "draft_word_range": [
+            5,
+            6
+          ],
+          "final_word_range": [
+            5,
+            8
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "office which,",
+          "final_text": "office,",
+          "draft_word_range": [
+            12,
+            14
+          ],
+          "final_word_range": [
+            14,
+            15
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9478
+    },
+    {
+      "draft_rule_number": 20,
+      "final_rule_number": 21,
+      "draft_title": "Terms and conditions of appointment and service of officers and employees of",
+      "final_title": "Terms and conditions of appointment and service of officers and employees of Board",
+      "status": "modified",
+      "similarity": 0.8701,
+      "change_count": 2,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Board.—(1)",
+          "final_text": "Board.— (1)",
+          "draft_word_range": [
+            12,
+            13
+          ],
+          "final_word_range": [
+            12,
+            14
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "Government and in such manner as the Central Government may by general or special order specify,",
+          "final_text": "Government,",
+          "draft_word_range": [
+            22,
+            38
+          ],
+          "final_word_range": [
+            23,
+            24
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9283
+    },
+    {
+      "draft_rule_number": 21,
+      "final_rule_number": 22,
+      "draft_title": "Appeal to Appellate Tribunal",
+      "final_title": "Appeal to Appellate Tribunal.",
+      "status": "modified",
+      "similarity": 0.8832,
+      "change_count": 7,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "Tribunal.—(1) An appeal, including any related documents, by a",
+          "final_text": "Tribunal. — (1) Any",
+          "draft_word_range": [
+            3,
+            12
+          ],
+          "final_word_range": [
+            3,
+            7
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "may prefer an appeal before the Appellate Tribunal, it",
+          "draft_word_range": [
+            22,
+            22
+          ],
+          "final_word_range": [
+            17,
+            26
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "form, following such procedure",
+          "final_text": "form",
+          "draft_word_range": [
+            27,
+            31
+          ],
+          "final_word_range": [
+            31,
+            32
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "may be specified by",
+          "final_text": "",
+          "draft_word_range": [
+            32,
+            36
+          ],
+          "final_word_range": [
+            33,
+            33
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "on its website.",
+          "final_text": "may decide.",
+          "draft_word_range": [
+            39,
+            42
+          ],
+          "final_word_range": [
+            36,
+            38
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "India as the Appellate Tribunal may specify on its website.",
+          "final_text": "India.",
+          "draft_word_range": [
+            116,
+            126
+          ],
+          "final_word_range": [
+            112,
+            113
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "techno- legal",
+          "final_text": "techno-legal",
+          "draft_word_range": [
+            203,
+            205
+          ],
+          "final_word_range": [
+            190,
+            191
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.9471
+    },
+    {
+      "draft_rule_number": 22,
+      "final_rule_number": 23,
+      "draft_title": "Calling for information from Data Fiduciary or intermediary",
+      "final_title": "Calling for information from Data Fiduciary or intermediary.",
+      "status": "modified",
+      "similarity": 0.6525,
+      "change_count": 16,
+      "changes": [
+        {
+          "operation": "replace",
+          "draft_text": "intermediary.—(1)",
+          "final_text": "intermediary. — (1)",
+          "draft_word_range": [
+            7,
+            8
+          ],
+          "final_word_range": [
+            7,
+            10
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "specify",
+          "final_text": "within",
+          "draft_word_range": [
+            50,
+            51
+          ],
+          "final_word_range": [
+            52,
+            53
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "time",
+          "final_text": "specified",
+          "draft_word_range": [
+            52,
+            53
+          ],
+          "final_word_range": [
+            54,
+            55
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "within which",
+          "final_text": "as may be given in such. (2) Where",
+          "draft_word_range": [
+            54,
+            56
+          ],
+          "final_word_range": [
+            56,
+            64
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "same shall be furnished and, where",
+          "final_text": "",
+          "draft_word_range": [
+            57,
+            63
+          ],
+          "final_word_range": [
+            65,
+            65
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "of furnishing of information as referred to",
+          "draft_word_range": [
+            64,
+            64
+          ],
+          "final_word_range": [
+            66,
+            73
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "this regard",
+          "final_text": "sub-rule (1)",
+          "draft_word_range": [
+            65,
+            67
+          ],
+          "final_word_range": [
+            74,
+            76
+          ]
+        },
+        {
+          "operation": "insert",
+          "draft_text": "",
+          "final_text": "the Central Government may",
+          "draft_word_range": [
+            83,
+            83
+          ],
+          "final_word_range": [
+            92,
+            96
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "the same",
+          "final_text": "such furnishing to affected Data Principal or any other person",
+          "draft_word_range": [
+            92,
+            94
+          ],
+          "final_word_range": [
+            105,
+            115
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "permission",
+          "final_text": "permission,",
+          "draft_word_range": [
+            98,
+            99
+          ],
+          "final_word_range": [
+            119,
+            120
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "writing",
+          "final_text": "writing,",
+          "draft_word_range": [
+            100,
+            101
+          ],
+          "final_word_range": [
+            121,
+            122
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "(2) Provision",
+          "final_text": "(3) For the purposes",
+          "draft_word_range": [
+            105,
+            107
+          ],
+          "final_word_range": [
+            126,
+            130
+          ]
+        },
+        {
+          "operation": "delete",
+          "draft_text": "information called for under",
+          "final_text": "",
+          "draft_word_range": [
+            108,
+            112
+          ],
+          "final_word_range": [
+            131,
+            131
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "rule",
+          "final_text": "rule, the expression “intermediary”",
+          "draft_word_range": [
+            113,
+            114
+          ],
+          "final_word_range": [
+            132,
+            136
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "be by way",
+          "final_text": "have the same meaning as assigned to it in the Information Technology Act, 2000 (21",
+          "draft_word_range": [
+            115,
+            118
+          ],
+          "final_word_range": [
+            137,
+            152
+          ]
+        },
+        {
+          "operation": "replace",
+          "draft_text": "fulfilment of obligation under section 36 of the Act.",
+          "final_text": "2000).",
+          "draft_word_range": [
+            119,
+            128
+          ],
+          "final_word_range": [
+            153,
+            154
+          ]
+        }
+      ],
+      "review_required": true,
+      "alignment_confidence": "high",
+      "alignment_relationship": "possible_one_to_one",
+      "alignment_similarity": 0.8491
+    }
+  ],
+  "pending_review": [
+    {
+      "draft_rule_number": 1,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 2,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 8,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    },
+    {
+      "draft_rule_number": 10,
+      "reason": "Alignment requires manual review",
+      "relationship": "possible_split",
+      "confidence_level": "medium"
+    },
+    {
+      "draft_rule_number": 14,
+      "reason": "Alignment requires manual review",
+      "relationship": "uncertain",
+      "confidence_level": "low"
+    }
+  ],
+  "alignment_conflicts": []
+}

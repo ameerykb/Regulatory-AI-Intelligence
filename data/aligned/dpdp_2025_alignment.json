@@ -1,0 +1,829 @@
+{
+  "draft_rule_count": 22,
+  "final_rule_count": 23,
+  "comparisons_performed": 506,
+  "alignments": [
+    {
+      "draft_rule_number": 1,
+      "draft_title": "Short title and commencement",
+      "candidates": [
+        {
+          "draft_rule_number": 1,
+          "final_rule_number": 1,
+          "final_title": "Short title and commencement.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.567,
+          "combined_similarity": 0.7402
+        },
+        {
+          "draft_rule_number": 1,
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "title_similarity": 0.2645,
+          "text_similarity": 0.3322,
+          "combined_similarity": 0.3051
+        },
+        {
+          "draft_rule_number": 1,
+          "final_rule_number": 20,
+          "final_title": "Functioning of Board as digital office.",
+          "title_similarity": 0.2727,
+          "text_similarity": 0.2647,
+          "combined_similarity": 0.2679
+        }
+      ],
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_rule_numbers": [
+        1
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 2,
+      "draft_title": "Definitions",
+      "candidates": [
+        {
+          "draft_rule_number": 2,
+          "final_rule_number": 2,
+          "final_title": "Definitions.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.3158,
+          "combined_similarity": 0.5895
+        },
+        {
+          "draft_rule_number": 2,
+          "final_rule_number": 1,
+          "final_title": "Short title and commencement.",
+          "title_similarity": 0.2051,
+          "text_similarity": 0.314,
+          "combined_similarity": 0.2704
+        },
+        {
+          "draft_rule_number": 2,
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "title_similarity": 0.1731,
+          "text_similarity": 0.3278,
+          "combined_similarity": 0.2659
+        }
+      ],
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_rule_numbers": [
+        2
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 3,
+      "draft_title": "Notice given by Data Fiduciary to Data Principal",
+      "candidates": [
+        {
+          "draft_rule_number": 3,
+          "final_rule_number": 3,
+          "final_title": "Notice given by Data Fiduciary to Data Principal.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9409,
+          "combined_similarity": 0.9645
+        },
+        {
+          "draft_rule_number": 3,
+          "final_rule_number": 14,
+          "final_title": "Rights of Data Principals.",
+          "title_similarity": 0.4658,
+          "text_similarity": 0.2214,
+          "combined_similarity": 0.3192
+        },
+        {
+          "draft_rule_number": 3,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.4231,
+          "text_similarity": 0.2327,
+          "combined_similarity": 0.3089
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        3
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 4,
+      "draft_title": "Registration and obligations of Consent Manager",
+      "candidates": [
+        {
+          "draft_rule_number": 4,
+          "final_rule_number": 4,
+          "final_title": "Registration and obligations of Consent Manager.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9986,
+          "combined_similarity": 0.9991
+        },
+        {
+          "draft_rule_number": 4,
+          "final_rule_number": 13,
+          "final_title": "Additional obligations of Significant Data Fiduciary.",
+          "title_similarity": 0.5859,
+          "text_similarity": 0.1996,
+          "combined_similarity": 0.3541
+        },
+        {
+          "draft_rule_number": 4,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.3759,
+          "text_similarity": 0.2351,
+          "combined_similarity": 0.2914
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        4
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 5,
+      "draft_title": "Processing for provision or issue of subsidy, benefit, service, certificate, licence",
+      "candidates": [
+        {
+          "draft_rule_number": 5,
+          "final_rule_number": 5,
+          "final_title": "Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or",
+          "title_similarity": 0.8936,
+          "text_similarity": 0.9144,
+          "combined_similarity": 0.9061
+        },
+        {
+          "draft_rule_number": 5,
+          "final_rule_number": 10,
+          "final_title": "Verifiable consent for processing of personal data of child",
+          "title_similarity": 0.3497,
+          "text_similarity": 0.2014,
+          "combined_similarity": 0.2607
+        },
+        {
+          "draft_rule_number": 5,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.2941,
+          "text_similarity": 0.2304,
+          "combined_similarity": 0.2559
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        5
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 6,
+      "draft_title": "Reasonable security safeguards",
+      "candidates": [
+        {
+          "draft_rule_number": 6,
+          "final_rule_number": 6,
+          "final_title": "Reasonable security safeguards.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9762,
+          "combined_similarity": 0.9857
+        },
+        {
+          "draft_rule_number": 6,
+          "final_rule_number": 23,
+          "final_title": "Calling for information from Data Fiduciary or intermediary.",
+          "title_similarity": 0.2921,
+          "text_similarity": 0.2788,
+          "combined_similarity": 0.2841
+        },
+        {
+          "draft_rule_number": 6,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 0.25,
+          "text_similarity": 0.2632,
+          "combined_similarity": 0.2579
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        6
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 7,
+      "draft_title": "Intimation of personal data breach",
+      "candidates": [
+        {
+          "draft_rule_number": 7,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.8904,
+          "combined_similarity": 0.9342
+        },
+        {
+          "draft_rule_number": 7,
+          "final_rule_number": 17,
+          "final_title": "Appointment of Chairperson and other Members",
+          "title_similarity": 0.5385,
+          "text_similarity": 0.2364,
+          "combined_similarity": 0.3573
+        },
+        {
+          "draft_rule_number": 7,
+          "final_rule_number": 13,
+          "final_title": "Additional obligations of Significant Data Fiduciary.",
+          "title_similarity": 0.5116,
+          "text_similarity": 0.2464,
+          "combined_similarity": 0.3525
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        7
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 8,
+      "draft_title": "Time period for specified purpose to be deemed as no longer being served",
+      "candidates": [
+        {
+          "draft_rule_number": 8,
+          "final_rule_number": 8,
+          "final_title": "Time period for specified purpose to be deemed as no longer being served",
+          "title_similarity": 1.0,
+          "text_similarity": 0.6337,
+          "combined_similarity": 0.7802
+        },
+        {
+          "draft_rule_number": 8,
+          "final_rule_number": 23,
+          "final_title": "Calling for information from Data Fiduciary or intermediary.",
+          "title_similarity": 0.2443,
+          "text_similarity": 0.3746,
+          "combined_similarity": 0.3225
+        },
+        {
+          "draft_rule_number": 8,
+          "final_rule_number": 3,
+          "final_title": "Notice given by Data Fiduciary to Data Principal.",
+          "title_similarity": 0.3167,
+          "text_similarity": 0.2496,
+          "combined_similarity": 0.2764
+        }
+      ],
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_rule_numbers": [
+        8
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 9,
+      "draft_title": "Contact information of person to answer questions about processing",
+      "candidates": [
+        {
+          "draft_rule_number": 9,
+          "final_rule_number": 9,
+          "final_title": "Contact information of person to answer questions about processing",
+          "title_similarity": 1.0,
+          "text_similarity": 0.999,
+          "combined_similarity": 0.9994
+        },
+        {
+          "draft_rule_number": 9,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 0.48,
+          "text_similarity": 0.2685,
+          "combined_similarity": 0.3531
+        },
+        {
+          "draft_rule_number": 9,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.3607,
+          "text_similarity": 0.2476,
+          "combined_similarity": 0.2928
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        9
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 10,
+      "draft_title": "Verifiable consent for processing of personal data of child or of person with",
+      "candidates": [
+        {
+          "draft_rule_number": 10,
+          "final_rule_number": 10,
+          "final_title": "Verifiable consent for processing of personal data of child",
+          "title_similarity": 0.8676,
+          "text_similarity": 0.5942,
+          "combined_similarity": 0.7036
+        },
+        {
+          "draft_rule_number": 10,
+          "final_rule_number": 11,
+          "final_title": "Verifiable consent for processing of personal data of person with disability who has lawful",
+          "title_similarity": 0.7738,
+          "text_similarity": 0.5737,
+          "combined_similarity": 0.6537
+        },
+        {
+          "draft_rule_number": 10,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.5767,
+          "text_similarity": 0.1005,
+          "combined_similarity": 0.291
+        }
+      ],
+      "confidence_level": "medium",
+      "relationship": "possible_split",
+      "candidate_rule_numbers": [
+        10,
+        11
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 11,
+      "draft_title": "Exemptions from certain obligations applicable to processing of personal data",
+      "candidates": [
+        {
+          "draft_rule_number": 11,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.9448,
+          "text_similarity": 0.9969,
+          "combined_similarity": 0.976
+        },
+        {
+          "draft_rule_number": 11,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.3459,
+          "text_similarity": 0.3339,
+          "combined_similarity": 0.3387
+        },
+        {
+          "draft_rule_number": 11,
+          "final_rule_number": 13,
+          "final_title": "Additional obligations of Significant Data Fiduciary.",
+          "title_similarity": 0.4186,
+          "text_similarity": 0.2839,
+          "combined_similarity": 0.3378
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        12
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 12,
+      "draft_title": "Additional obligations of Significant Data Fiduciary",
+      "candidates": [
+        {
+          "draft_rule_number": 12,
+          "final_rule_number": 13,
+          "final_title": "Additional obligations of Significant Data Fiduciary.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.8883,
+          "combined_similarity": 0.933
+        },
+        {
+          "draft_rule_number": 12,
+          "final_rule_number": 4,
+          "final_title": "Registration and obligations of Consent Manager.",
+          "title_similarity": 0.5859,
+          "text_similarity": 0.2351,
+          "combined_similarity": 0.3754
+        },
+        {
+          "draft_rule_number": 12,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.4783,
+          "text_similarity": 0.2958,
+          "combined_similarity": 0.3688
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        13
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 13,
+      "draft_title": "Rights of Data Principals",
+      "candidates": [
+        {
+          "draft_rule_number": 13,
+          "final_rule_number": 14,
+          "final_title": "Rights of Data Principals.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9386,
+          "combined_similarity": 0.9631
+        },
+        {
+          "draft_rule_number": 13,
+          "final_rule_number": 3,
+          "final_title": "Notice given by Data Fiduciary to Data Principal.",
+          "title_similarity": 0.4932,
+          "text_similarity": 0.2537,
+          "combined_similarity": 0.3495
+        },
+        {
+          "draft_rule_number": 13,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 0.4407,
+          "text_similarity": 0.2175,
+          "combined_similarity": 0.3068
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        14
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 14,
+      "draft_title": "Processing of personal data outside India",
+      "candidates": [
+        {
+          "draft_rule_number": 14,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.6804,
+          "text_similarity": 0.7849,
+          "combined_similarity": 0.7431
+        },
+        {
+          "draft_rule_number": 14,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 0.5867,
+          "text_similarity": 0.2703,
+          "combined_similarity": 0.3969
+        },
+        {
+          "draft_rule_number": 14,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.4882,
+          "text_similarity": 0.3234,
+          "combined_similarity": 0.3893
+        }
+      ],
+      "confidence_level": "low",
+      "relationship": "uncertain",
+      "candidate_rule_numbers": [
+        15
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 15,
+      "draft_title": "Exemption from Act for research, archiving or  statistical purposes",
+      "candidates": [
+        {
+          "draft_rule_number": 15,
+          "final_rule_number": 16,
+          "final_title": "Exemption from Act for research, archiving or statistical purposes.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9948,
+          "combined_similarity": 0.9969
+        },
+        {
+          "draft_rule_number": 15,
+          "final_rule_number": 12,
+          "final_title": "Exemptions from certain obligations applicable to processing of personal data of child.",
+          "title_similarity": 0.4342,
+          "text_similarity": 0.2527,
+          "combined_similarity": 0.3253
+        },
+        {
+          "draft_rule_number": 15,
+          "final_rule_number": 20,
+          "final_title": "Functioning of Board as digital office.",
+          "title_similarity": 0.3462,
+          "text_similarity": 0.31,
+          "combined_similarity": 0.3244
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        16
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 16,
+      "draft_title": "Appointment of Chairperson and other Members",
+      "candidates": [
+        {
+          "draft_rule_number": 16,
+          "final_rule_number": 17,
+          "final_title": "Appointment of Chairperson and other Members",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9961,
+          "combined_similarity": 0.9977
+        },
+        {
+          "draft_rule_number": 16,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.46,
+          "text_similarity": 0.2447,
+          "combined_similarity": 0.3308
+        },
+        {
+          "draft_rule_number": 16,
+          "final_rule_number": 7,
+          "final_title": "Intimation of personal data breach.",
+          "title_similarity": 0.4872,
+          "text_similarity": 0.1997,
+          "combined_similarity": 0.3147
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        17
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 17,
+      "draft_title": "Salary, allowances and other terms and conditions of service of Chairperson and",
+      "candidates": [
+        {
+          "draft_rule_number": 17,
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "title_similarity": 0.9186,
+          "text_similarity": 0.9945,
+          "combined_similarity": 0.9641
+        },
+        {
+          "draft_rule_number": 17,
+          "final_rule_number": 21,
+          "final_title": "Terms and conditions of appointment and service of officers and employees of Board",
+          "title_similarity": 0.5342,
+          "text_similarity": 0.3415,
+          "combined_similarity": 0.4185
+        },
+        {
+          "draft_rule_number": 17,
+          "final_rule_number": 1,
+          "final_title": "Short title and commencement.",
+          "title_similarity": 0.3364,
+          "text_similarity": 0.2886,
+          "combined_similarity": 0.3077
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        18
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 18,
+      "draft_title": "Procedure for meetings of Board and authentication of its orders, directions and",
+      "candidates": [
+        {
+          "draft_rule_number": 18,
+          "final_rule_number": 19,
+          "final_title": "Procedure for meetings of Board and authentication of its orders, directions and instruments.",
+          "title_similarity": 0.9302,
+          "text_similarity": 0.9881,
+          "combined_similarity": 0.965
+        },
+        {
+          "draft_rule_number": 18,
+          "final_rule_number": 17,
+          "final_title": "Appointment of Chairperson and other Members",
+          "title_similarity": 0.3548,
+          "text_similarity": 0.2479,
+          "combined_similarity": 0.2906
+        },
+        {
+          "draft_rule_number": 18,
+          "final_rule_number": 23,
+          "final_title": "Calling for information from Data Fiduciary or intermediary.",
+          "title_similarity": 0.3885,
+          "text_similarity": 0.2244,
+          "combined_similarity": 0.29
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        19
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 19,
+      "draft_title": "Functioning of Board as digital office",
+      "candidates": [
+        {
+          "draft_rule_number": 19,
+          "final_rule_number": 20,
+          "final_title": "Functioning of Board as digital office.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.913,
+          "combined_similarity": 0.9478
+        },
+        {
+          "draft_rule_number": 19,
+          "final_rule_number": 22,
+          "final_title": "Appeal to Appellate Tribunal.",
+          "title_similarity": 0.1818,
+          "text_similarity": 0.3965,
+          "combined_similarity": 0.3106
+        },
+        {
+          "draft_rule_number": 19,
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "title_similarity": 0.2595,
+          "text_similarity": 0.3077,
+          "combined_similarity": 0.2884
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        20
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 20,
+      "draft_title": "Terms and conditions of appointment and service of officers and employees of",
+      "candidates": [
+        {
+          "draft_rule_number": 20,
+          "final_rule_number": 21,
+          "final_title": "Terms and conditions of appointment and service of officers and employees of Board",
+          "title_similarity": 0.962,
+          "text_similarity": 0.9058,
+          "combined_similarity": 0.9283
+        },
+        {
+          "draft_rule_number": 20,
+          "final_rule_number": 18,
+          "final_title": "Salary, allowances and other terms and conditions of service of Chairperson and other Members.",
+          "title_similarity": 0.568,
+          "text_similarity": 0.2941,
+          "combined_similarity": 0.4037
+        },
+        {
+          "draft_rule_number": 20,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.2879,
+          "text_similarity": 0.4073,
+          "combined_similarity": 0.3596
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        21
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 21,
+      "draft_title": "Appeal to Appellate Tribunal",
+      "candidates": [
+        {
+          "draft_rule_number": 21,
+          "final_rule_number": 22,
+          "final_title": "Appeal to Appellate Tribunal.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.9118,
+          "combined_similarity": 0.9471
+        },
+        {
+          "draft_rule_number": 21,
+          "final_rule_number": 20,
+          "final_title": "Functioning of Board as digital office.",
+          "title_similarity": 0.1818,
+          "text_similarity": 0.3587,
+          "combined_similarity": 0.288
+        },
+        {
+          "draft_rule_number": 21,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.3571,
+          "text_similarity": 0.2037,
+          "combined_similarity": 0.2651
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        22
+      ],
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 22,
+      "draft_title": "Calling for information from Data Fiduciary or intermediary",
+      "candidates": [
+        {
+          "draft_rule_number": 22,
+          "final_rule_number": 23,
+          "final_title": "Calling for information from Data Fiduciary or intermediary.",
+          "title_similarity": 1.0,
+          "text_similarity": 0.7485,
+          "combined_similarity": 0.8491
+        },
+        {
+          "draft_rule_number": 22,
+          "final_rule_number": 15,
+          "final_title": "Transfer of personal data outside the territory of India",
+          "title_similarity": 0.3652,
+          "text_similarity": 0.2884,
+          "combined_similarity": 0.3191
+        },
+        {
+          "draft_rule_number": 22,
+          "final_rule_number": 3,
+          "final_title": "Notice given by Data Fiduciary to Data Principal.",
+          "title_similarity": 0.5234,
+          "text_similarity": 0.1646,
+          "combined_similarity": 0.3081
+        }
+      ],
+      "confidence_level": "high",
+      "relationship": "possible_one_to_one",
+      "candidate_rule_numbers": [
+        23
+      ],
+      "review_required": true
+    }
+  ],
+  "unmatched_final_rules": [],
+  "potential_addition_count": 0,
+  "unmatched_draft_rules": [
+    {
+      "draft_rule_number": 1,
+      "draft_title": "Short title and commencement",
+      "status": "potential_removal",
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 2,
+      "draft_title": "Definitions",
+      "status": "potential_removal",
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 8,
+      "draft_title": "Time period for specified purpose to be deemed as no longer being served",
+      "status": "potential_removal",
+      "review_required": true
+    },
+    {
+      "draft_rule_number": 14,
+      "draft_title": "Processing of personal data outside India",
+      "status": "potential_removal",
+      "review_required": true
+    }
+  ],
+  "potential_removal_count": 4
+}

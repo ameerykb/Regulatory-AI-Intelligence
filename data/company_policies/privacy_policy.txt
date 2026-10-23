@@ -1,0 +1,37 @@
+
+NOVATECH SOLUTIONS PVT. LTD.
+INTERNAL DATA PRIVACY POLICY
+Version: 1.0
+Status: Fictional Sample — For Testing Only
+
+1. PERSONAL DATA COLLECTION
+NovaTech collects customer names, email addresses, phone numbers,
+and account information to provide its digital services.
+
+2. CONSENT MANAGEMENT
+NovaTech obtains customer consent before processing personal data.
+Customers can withdraw their consent by contacting customer support.
+
+3. DATA BREACH RESPONSE
+NovaTech investigates suspected personal data breaches and informs
+affected customers when necessary.
+
+4. DATA RETENTION
+NovaTech retains customer personal data for business and operational
+purposes. Data is deleted when no longer required.
+
+5. CUSTOMER RIGHTS
+Customers may request access to their personal data, correction of
+inaccurate information, or deletion of their personal data.
+
+6. GRIEVANCE REDRESSAL
+Customers can submit privacy complaints through the customer
+support team.
+
+7. CHILDREN'S PERSONAL DATA
+NovaTech requires parental consent before processing personal data
+belonging to children.
+
+8. SECURITY SAFEGUARDS
+NovaTech uses access controls, encryption, and employee security
+training to protect personal data.

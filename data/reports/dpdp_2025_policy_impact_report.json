@@ -1,0 +1,1757 @@
+{
+  "report_type": "preliminary_policy_impact_analysis",
+  "generated_at_utc": "2026-10-23T14:54:13.050666+00:00",
+  "policy_source": "data/company_policies/privacy_policy.txt",
+  "summary": {
+    "aligned_rule_pairs": 17,
+    "total_change_groups": 24,
+    "groups_with_potential_matches": 17,
+    "groups_requiring_manual_review": 7,
+    "rule_pairs_without_change_groups": 6
+  },
+  "rule_results": [
+    {
+      "draft_rule_number": 3,
+      "final_rule_number": 3,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "or purposes",
+            "specific",
+            "give,"
+          ],
+          "regulatory_context": "data, which shall include, at the minimum, — (i) an itemised description of such personal data; and (ii) the specified purpose or purposes of, and specific description of the goods or services to be provided or uses to be enabled by, such processing; and (c) give, the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5874,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4996,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4552,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4545,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3221,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3167,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2992,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2938,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5874,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4996,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4552,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4545,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 4,
+      "final_rule_number": 4,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 5,
+      "final_rule_number": 5,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "of personal data",
+            "instrumentalities. — (1) Processing",
+            "",
+            "(2)",
+            "the"
+          ],
+          "regulatory_context": "5. Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities. — (1) Processing the personal data of a Data Principal under this rule shall be done following the standards specified in Second Schedule. (2) In this rule and the Second Schedule, the reference to any subsidy, benefit, service, certificate, licence or permit that is provided or issued— (a)",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.487,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4742,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4262,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4118,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3944,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3068,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.2795,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2671,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.487,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4742,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4262,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4118,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3944,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 6,
+      "final_rule_number": 6,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "such as",
+            "",
+            "",
+            "obfuscation,"
+          ],
+          "regulatory_context": "taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum, — (a) appropriate data security measures, such as securing of personal data through encryption, obfuscation, masking or the use of virtual tokens mapped to that personal data; (b) appropriate measures to control access to",
+          "policy_matches": [
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.5599,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.549,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4467,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4311,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3658,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3579,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3422,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3347,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.5599,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.549,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4467,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4311,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3658,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3579,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "Processor, wherever applicable;"
+          ],
+          "regulatory_context": "personal data; (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor, wherever applicable; (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5648,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4647,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4522,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4439,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3894,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3436,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3398,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2885,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5648,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4647,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4522,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4439,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3894,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 3,
+          "changed_texts": [
+            "such as"
+          ],
+          "regulatory_context": "availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, such as by way of data-backups; (e) for enabling the detection of unauthorised access, its investigation, remediation to prevent recurrence and",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4859,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4166,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3852,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3731,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3315,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.3043,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.2892,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2683,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4859,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4166,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3852,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3731,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 4,
+          "changed_texts": [
+            "Processor, wherever applicable,"
+          ],
+          "regulatory_context": "being in force requires otherwise; (f) appropriate provision in the contract entered into between such Data Fiduciary and such a Data Processor, wherever applicable, for taking reasonable security safeguards; and (g) appropriate technical and organisational measures to ensure effective observance of security safeguards.",
+          "policy_matches": [
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3852,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3584,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.3475,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.312,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.2927,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.2819,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.2737,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.2001,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.3852,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3584,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 7,
+      "final_rule_number": 7,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            ""
+          ],
+          "regulatory_context": "registered by her with the Data Fiduciary, — (a) a description of the breach, including its nature, extent and the timing of its occurrence; (b) the consequences relevant to her, that are likely to arise from the breach; (c) the",
+          "policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.5563,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4822,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.401,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3804,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3577,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3459,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.3338,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2664,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.5563,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4822,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.401,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3804,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3577,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "breach,"
+          ],
+          "regulatory_context": "its nature, extent, timing and location of occurrence and the likely impact; (b) within seventy-two hours of becoming aware of the breach, or within such longer period as the Board may allow on a request made in writing in this behalf,",
+          "policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4284,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.363,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.3299,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.2398,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.1836,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.1643,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.1473,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.1121,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4284,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.363,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 3,
+          "changed_texts": [
+            ""
+          ],
+          "regulatory_context": "remedial measures taken to prevent recurrence of such breach; and (vi) a report regarding the intimations given to affected Data Principals. [भाग II—खण् ड 3(i)] भारत का रािपत्र : असाधारण 27",
+          "policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3648,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.2366,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2217,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.1952,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1651,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.149,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.1279,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.0961,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3648,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 9,
+      "final_rule_number": 9,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 11,
+      "final_rule_number": 12,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 12,
+      "final_rule_number": 13,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "technical measures including",
+            "adopted"
+          ],
+          "regulatory_context": "observations in the Data Protection Impact Assessment and audit. (3) A Significant Data Fiduciary shall observe due diligence to verify that technical measures including algorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4624,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4085,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4071,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.4047,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3482,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.3276,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3186,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.2849,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4624,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.4085,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.4071,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.4047,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "(5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Department of the Central Government."
+          ],
+          "regulatory_context": "restriction that the personal data and the traffic data pertaining to its flow is not transferred outside the territory of India. (5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Department of the Central Government.",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.3454,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3236,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.279,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2582,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.2142,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2117,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.2102,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1674,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 13,
+      "final_rule_number": 14,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "prominently"
+          ],
+          "regulatory_context": "For enabling Data Principals to exercise their rights under the Act, the Data Fiduciary and, where applicable, the Consent Manager, shall prominently publish on its website or app, or both, as the case may be, — (a) the details of the",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5658,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.5422,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.528,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4196,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3772,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.351,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3402,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3343,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5658,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.5422,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.528,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4196,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3772,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.351,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "Act,"
+          ],
+          "regulatory_context": "be required to identify her under its terms of service. (2) To exercise the rights of the Data Principal under the Act, she may make a request to the Data Fiduciary to whom she has previously given consent for processing of",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5129,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.476,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.4415,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3875,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3683,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3206,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3085,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2592,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5129,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.476,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.4415,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3875,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3683,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 3,
+          "changed_texts": [
+            "required",
+            "prominently",
+            "within a reasonable",
+            "not exceeding ninety days"
+          ],
+          "regulatory_context": "Fiduciary to whom she has previously given consent for processing of her personal data, using the means and furnishing the particulars required by such Data Fiduciary for the exercise of such rights. (3) Every Data Fiduciary and Consent Manager shall prominently publish on its website or app, or both, as the case may be, within a reasonable period not exceeding ninety days under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5781,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.5034,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4914,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4781,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.406,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3712,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.342,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2874,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5781,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.5034,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4914,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4781,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.406,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3712,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 4,
+          "changed_texts": [
+            "Act,"
+          ],
+          "regulatory_context": "responding within such period, implement appropriate technical and organisational measures. (4) To exercise the rights of the Data Principal under the Act, she may, in accordance with the terms of service of the Data Fiduciary and such law as may be",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5034,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3998,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3963,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3884,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.3726,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3512,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.3407,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.308,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5034,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3998,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.3963,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3884,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.3726,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3512,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 5,
+          "changed_texts": [
+            "required"
+          ],
+          "regulatory_context": "Data Fiduciary and such law as may be applicable, nominate one or more individuals, using the means and furnishing the particulars required by such Data Fiduciary for the exercise of such right. (5) In this rule, the expression “identifier” shall mean",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4261,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2941,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.2814,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.2512,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.2509,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.2499,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1965,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.1646,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4261,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        },
+        {
+          "group_number": 6,
+          "changed_texts": [
+            "ID, email address, mobile number"
+          ],
+          "regulatory_context": "Fiduciary to identify the Data Principal and includes a customer identification file number, customer acquisition form number, application reference number, enrolment ID, email address, mobile number or licence number that enables such identification.",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4828,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4416,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3367,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3055,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.2931,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.255,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.2382,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2184,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.4828,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.4416,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 15,
+      "final_rule_number": 16,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 16,
+      "final_rule_number": 17,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "17.Appointment"
+          ],
+          "regulatory_context": "17.Appointment of Chairperson and other Members.— (1) The Central Government shall constitute a Search-cum-Selection Committee, with the Cabinet Secretary as the",
+          "policy_matches": [
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1403,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.13,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.1296,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.1181,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.113,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.0827,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.0797,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.0634,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "and (2)"
+          ],
+          "regulatory_context": "other Member, as the case may be. (4) No act or proceeding of the Search-cum-Selection Committee specified in sub-rules (1) and (2) of this rule shall be called in question on the ground merely of the existence of any vacancy or absences",
+          "policy_matches": [
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1767,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.143,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.1222,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.1151,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1098,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.098,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.0637,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.0448,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 17,
+      "final_rule_number": 18,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 18,
+      "final_rule_number": 19,
+      "change_groups": []
+    },
+    {
+      "draft_rule_number": 19,
+      "final_rule_number": 20,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "office,"
+          ],
+          "regulatory_context": "20. Functioning of Board as digital office. — The Board shall function as a digital office, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath,",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.3238,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2636,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.1982,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1977,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.1675,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.1395,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.1336,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1314,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 20,
+      "final_rule_number": 21,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "Government,"
+          ],
+          "regulatory_context": "conditions of appointment and service of officers and employees of Board.— (1) The Board may, with previous approval of the Central Government, appoint such officers and employees as it may deem necessary for the efficient discharge of its functions under the",
+          "policy_matches": [
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2574,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.2456,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1845,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.1211,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.0952,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.08,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.0557,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.0556,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 21,
+      "final_rule_number": 22,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "Tribunal. — (1) Any",
+            "may prefer an appeal before the Appellate Tribunal, it",
+            "form",
+            "",
+            "may decide."
+          ],
+          "regulatory_context": "22. Appeal to Appellate Tribunal. — (1) Any person aggrieved by an order or direction of the Board, may prefer an appeal before the Appellate Tribunal, it shall be filed in digital form as the Appellate Tribunal may decide. (2) An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount as is applicable",
+          "policy_matches": [
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.1969,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.1525,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.1243,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1125,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.0767,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.0736,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.0424,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": -0.0253,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        },
+        {
+          "group_number": 2,
+          "changed_texts": [
+            "India."
+          ],
+          "regulatory_context": "same shall be payable digitally using the Unified Payments Interface or such other payment system authorised by the Reserve Bank of India. (3) The Appellate Tribunal— (a) shall not be bound by the procedure laid down by the Code of Civil",
+          "policy_matches": [
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.2863,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.2479,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.2204,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.177,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.1288,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.1243,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.1144,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.1141,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [],
+          "assessment_status": "preliminary",
+          "review_reason": "No policy match met the preliminary similarity threshold. Manual review required."
+        }
+      ]
+    },
+    {
+      "draft_rule_number": 22,
+      "final_rule_number": 23,
+      "change_groups": [
+        {
+          "group_number": 1,
+          "changed_texts": [
+            "within",
+            "specified",
+            "as may be given in such. (2) Where",
+            "",
+            "of furnishing of information as referred to",
+            "sub-rule (1)",
+            "the Central Government may",
+            "such furnishing to affected Data Principal or any other person",
+            "(3) For the purposes",
+            "",
+            "rule, the expression “intermediary”",
+            "have the same meaning as assigned to it in the Information Technology Act, 2000 (21",
+            "2000)."
+          ],
+          "regulatory_context": "person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such information as may be called for, within the specified period as may be given in such. (2) Where the disclosure of furnishing of information as referred to in sub-rule (1) is likely to prejudicially affect the sovereignty and integrity of India or security of the State, the Central Government may require the Data Fiduciary or intermediary to not disclose such furnishing to affected Data Principal or any other person except with the previous permission, in writing, of the authorised person. (3) For the purposes of this rule, the expression “intermediary” shall have the same meaning as assigned to it in the Information Technology Act, 2000 (21 of 2000).",
+          "policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5345,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4233,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4059,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3738,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3733,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "3. DATA BREACH RESPONSE",
+              "similarity_score": 0.3014,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "1. PERSONAL DATA COLLECTION",
+              "similarity_score": 0.291,
+              "similarity_label": "weak_semantic_match"
+            },
+            {
+              "policy_section": "8. SECURITY SAFEGUARDS",
+              "similarity_score": 0.2694,
+              "similarity_label": "weak_semantic_match"
+            }
+          ],
+          "filtered_policy_matches": [
+            {
+              "policy_section": "5. CUSTOMER RIGHTS",
+              "similarity_score": 0.5345,
+              "similarity_label": "stronger_semantic_match"
+            },
+            {
+              "policy_section": "6. GRIEVANCE REDRESSAL",
+              "similarity_score": 0.4233,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "7. CHILDREN'S PERSONAL DATA",
+              "similarity_score": 0.4059,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "4. DATA RETENTION",
+              "similarity_score": 0.3738,
+              "similarity_label": "moderate_semantic_match"
+            },
+            {
+              "policy_section": "2. CONSENT MANAGEMENT",
+              "similarity_score": 0.3733,
+              "similarity_label": "moderate_semantic_match"
+            }
+          ],
+          "assessment_status": "preliminary",
+          "review_reason": "Potential policy matches identified for human review."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Company policy is fictional test data.",
+    "Similarity scores do not establish legal impact.",
+    "Similarity thresholds are preliminary and unvalidated.",
+    "No detected wording group does not prove no regulatory change.",
+    "Only aligned regulatory rule pairs are included.",
+    "Human legal and policy review is required."
+  ]
+}
