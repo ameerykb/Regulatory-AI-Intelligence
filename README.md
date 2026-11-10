@@ -36,7 +36,6 @@ The repository includes a Streamlit dashboard in [`dashboard/app.py`](dashboard/
 <!-- To show your REAL application here, save a screenshot to docs/images/dashboard-overview.png and uncomment the line below. -->
 <!-- ![Regulatory AI dashboard](docs/images/dashboard-overview.png) -->
 
-> 📸 **Screenshot coming soon:** Add a real screenshot from your running Streamlit app to make this section as visually compelling as the monitoring screenshots in the reference project.
 
 ## 🧭 System architecture
 
