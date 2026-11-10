@@ -29,13 +29,38 @@ An end-to-end **AI-assisted regulatory intelligence** project that compares Indi
 
 > **Scope:** This is an educational/portfolio system using DPDP Rules 2025 and a fictional privacy policy. Its generated findings are preliminary and require human review; they are **not legal advice**.
 
-## 🖥️ Dashboard preview
+## 🖥️ Application preview
 
-The repository includes a Streamlit dashboard in [`dashboard/app.py`](dashboard/app.py) for regulatory evidence exploration, review, and report downloads.
+### Policy impact analysis
 
-<!-- To show your REAL application here, save a screenshot to docs/images/dashboard-overview.png and uncomment the line below. -->
-<!-- ![Regulatory AI dashboard](docs/images/dashboard-overview.png) -->
+![Policy impact summary with matching statistics and bar chart](docs/screenshots/policy-impact.png)
 
+*Potential regulatory matches across sections of a fictional organization's privacy policy; findings are preliminary.*
+
+<details>
+<summary><strong>📸 Explore more application screenshots</strong></summary>
+
+### Regulatory intelligence dashboard
+
+![Dashboard showing evidence records and unmatched regulatory changes](docs/screenshots/dashboard.png)
+
+### AI regulatory assistant — RAG + local LLM
+
+![RAG assistant answering a regulatory question with source references](docs/screenshots/rag-assistant.png)
+
+### Claim-level verification
+
+![Claim-level verification showing citation coverage and review flags](docs/screenshots/claim-verification.png)
+
+*Citation coverage measures whether citations are present, not whether the answer is legally accurate. Some claims are flagged for human review.*
+
+### Evidence verification and regulatory sources
+
+![Experimental evidence verification and retrieved regulatory sources](docs/screenshots/evidence-verification.png)
+
+*Experimental verification is not a substitute for legal or expert review.*
+
+</details>
 
 ## 🧭 System architecture
 
