@@ -216,14 +216,6 @@ A test suite and test runner are included, but this README does **not** claim a 
 
 These controls reduce risk but do not guarantee factual correctness, legal accuracy, or complete protection against malicious inputs.
 
-## 🛣️ Next improvements
-
-- [ ] Add genuine dashboard screenshots and a short demonstration GIF.
-- [ ] Run and publish reproducible test results from a clean environment.
-- [ ] Curate a minimal, platform-tested dependency file.
-- [ ] Add retrieval and citation evaluation benchmarks with documented datasets.
-- [ ] Improve deployment and setup documentation.
-
 ## 👤 Author
 
 **Ameer Yakoob M T**  
