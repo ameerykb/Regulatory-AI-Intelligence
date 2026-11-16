@@ -2,20 +2,23 @@
 
 # ⚖️ Regulatory AI Intelligence System
 
-### Regulatory change detection · Evidence-grounded RAG · Local LLM · Human review
+### Regulatory change detection · Evidence-grounded RAG · AI-assisted policy impact
 
-An end-to-end **AI-assisted regulatory intelligence** project that compares India's **DPDP Rules 2025** draft and final documents, retrieves source-linked regulatory evidence, and helps assess potential impacts on a **fictional organization's privacy policy**.
+A **local-first AI application** for comparing versions of structured regulations, identifying rule changes, and exploring their potential impact on internal company policies.
+
+**Case study:** India's **Draft and Final DPDP Rules, 2025**, assessed against a fictional organization's policy sections.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-TypeScript-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-7856FF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Search-F59E0B?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-24292F?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen2.5-7B-7C3AED?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Integration-6366F1?style=for-the-badge)
 
-**[Architecture](#-system-architecture) · [Features](#-key-features) · [Quick Start](#-quick-start) · [Project Structure](#-project-structure) · [Testing](#-testing)**
+**[Features](#-key-features) · [Architecture](#-system-architecture) · [Tech Stack](#-technology-stack) · [Getting Started](#-getting-started) · [Testing](#-testing)**
 
 </div>
 
@@ -23,42 +26,36 @@ An end-to-end **AI-assisted regulatory intelligence** project that compares Indi
 
 ## ✨ Project at a glance
 
-| 📄 Document intelligence | 🧠 Retrieval & generation | 🛡️ Trust & review |
+| 📄 Regulatory intelligence | 🧠 Local AI & retrieval | 🛡️ Evidence & review |
 |:---|:---|:---|
-| PDF text extraction, rule parsing, draft/final alignment, change analysis | `all-MiniLM-L6-v2` embeddings, persistent ChromaDB, Qwen2.5:7B via Ollama | Source citations, claim/evidence checks, prompt-injection screening, human review routing |
+| PDF extraction, numbered-rule parsing, version alignment, change detection | Hugging Face sentence embeddings, ChromaDB, LangChain/LangGraph, Ollama | Source references, candidate policy matches, preliminary findings, human review |
 
-> **Scope:** This is an educational/portfolio system using DPDP Rules 2025 and a fictional privacy policy. Its generated findings are preliminary and require human review; they are **not legal advice**.
+> **Project scope:** This is an educational AI engineering project, not a legal compliance product. Findings are preliminary, and similarity scores do not establish compliance or legal risk.
 
 ## 🖥️ Application preview
 
-### Policy impact analysis
+The current interface is a **React + TypeScript dashboard** with pages for documents, comparisons, policy impact, knowledge, and reports.
 
-![Policy impact summary with matching statistics and bar chart](docs/screenshots/policy-impact.png)
+![Regulatory AI overview dashboard](docs/screenshots/overview.png)
 
-*Potential regulatory matches across sections of a fictional organization's privacy policy; findings are preliminary.*
+*Overview of the DPDP case-study comparison and preliminary impact findings.*
 
 <details>
-<summary><strong>📸 Explore more application screenshots</strong></summary>
+<summary><strong>📸 Explore application screenshots</strong></summary>
 
-### Regulatory intelligence dashboard
+### Rule comparison setup and history
 
-![Dashboard showing evidence records and unmatched regulatory changes](docs/screenshots/dashboard.png)
+![Regulatory document comparison setup and history](docs/screenshots/rule-comparison.png)
 
-### AI regulatory assistant — RAG + local LLM
+### Rule comparison results
 
-![RAG assistant answering a regulatory question with source references](docs/screenshots/rag-assistant.png)
+![Analyzed rules, modifications and detailed comparison](docs/screenshots/comparison-results.png)
 
-### Claim-level verification
+### Preliminary policy impact analysis
 
-![Claim-level verification showing citation coverage and review flags](docs/screenshots/claim-verification.png)
+![Preliminary policy impact findings and AI processing status](docs/screenshots/policy-impact.png)
 
-*Citation coverage measures whether citations are present, not whether the answer is legally accurate. Some claims are flagged for human review.*
-
-### Evidence verification and regulatory sources
-
-![Experimental evidence verification and retrieved regulatory sources](docs/screenshots/evidence-verification.png)
-
-*Experimental verification is not a substitute for legal or expert review.*
+*Policy impact findings require human review, even when AI processing is completed.*
 
 </details>
 
@@ -66,164 +63,143 @@ An end-to-end **AI-assisted regulatory intelligence** project that compares Indi
 
 ```mermaid
 flowchart TD
-    A[DPDP Draft & Final PDFs] --> B[PyMuPDF extraction]
-    B --> C[Rule & section parsing]
-    C --> D[Document / rule alignment]
-    D --> E[Text differences & change analysis]
-    C --> F[Sentence Transformers embeddings]
-    F --> G[(ChromaDB local vector store)]
-    Q[Regulatory question] --> H[LangGraph workflow]
-    H --> I[RAG retrieval]
-    G --> I
-    I --> J[Evidence + source metadata]
-    J --> K[Qwen2.5:7B via Ollama]
-    K --> L[Citation / claim verification]
-    L --> M[Human review routing]
-    E --> N[Policy impact analysis]
-    P[Fictional privacy policy] --> N
-    N --> O[Structured reports]
-    M --> R[Streamlit dashboard]
-    O --> R
-    classDef docs fill:#dbeafe,stroke:#2563eb,color:#1e3a8a;
+    A[Draft & Final regulatory PDFs] --> B[FastAPI document upload]
+    B --> C[PDF extraction & rule parsing]
+    C --> D[Rule alignment & change detection]
+    D --> E[Saved comparison & regulatory evidence]
+    E --> F[Policy impact analysis]
+    P[Fictional internal policy sections] --> F
+    F --> G[Preliminary findings & exports]
+    H[Regulatory questions] --> I[RAG retrieval]
+    J[Hugging Face embeddings] --> K[(ChromaDB)]
+    K --> I
+    I --> L[Ollama / Qwen2.5]
+    L --> M[Evidence & review checks]
+    E --> N[React dashboard]
+    G --> N
+    M --> N
+    O[MCP tools] -.-> E
+    O -.-> F
+    classDef doc fill:#dbeafe,stroke:#2563eb,color:#1e3a8a;
     classDef ai fill:#ede9fe,stroke:#7c3aed,color:#4c1d95;
-    classDef output fill:#dcfce7,stroke:#16a34a,color:#14532d;
-    class A,B,C,D,E,P docs;
-    class F,G,H,I,J,K,L,M,N ai;
-    class O,R output;
+    classDef result fill:#dcfce7,stroke:#16a34a,color:#14532d;
+    class A,B,C,D,P,H doc;
+    class F,I,J,K,L,M,O ai;
+    class E,G,N result;
 ```
 
-*This diagram is a conceptual overview of the repository's related processing paths, not a claim that every module runs sequentially in a single command.*
+*Conceptual view of related application workflows; not every component runs in a single sequential pipeline.*
 
 ## 🚀 Key features
 
-- **Regulatory PDF processing:** Extracts and structures text from draft and final regulatory PDFs.
-- **Rule alignment and change detection:** Matches regulatory provisions and produces structured change-analysis artifacts.
-- **Semantic search:** Uses local 384-dimensional `all-MiniLM-L6-v2` embeddings with persistent ChromaDB storage.
-- **Evidence-grounded RAG:** Retrieves relevant provisions before generating regulatory answers.
-- **Local LLM:** Connects to `qwen2.5:7b` through the local Ollama API; no paid inference API key is required.
-- **LangGraph workflow:** Orchestrates question validation, RAG execution, verification assessment, and review routing.
-- **Citation and claim checks:** Includes dedicated modules for citation validation, claim extraction, evidence mapping, and verification.
-- **Prompt security:** Includes prompt-injection detection logic for retrieved content.
-- **Policy impact analysis:** Compares regulatory changes with a fictional company policy and generates evidence-oriented reports.
-- **Human-in-the-loop review:** Supports saving and viewing reviewer decisions.
-- **Streamlit interface:** Presents evidence summaries, review queues, regulatory questions, and downloadable reports.
+- **Regulatory PDF processing** — Extracts text and identifies numbered rules.
+- **Version comparison** — Aligns structured regulatory documents and highlights changes.
+- **Policy impact assessment** — Finds potentially related sections in a fictional organization's internal policies.
+- **RAG assistant** — Retrieves relevant regulatory evidence before generating answers.
+- **Local AI** — Uses Hugging Face embeddings and Qwen2.5 through Ollama, without a paid inference API.
+- **Evidence-first reporting** — Shows source references, textual edits, similarity scores, and human-review flags.
+- **Report exports** — Supports JSON, Markdown, and comparison exports.
+- **MCP integration** — Exposes comparison and impact operations to compatible local MCP clients.
+- **Failure handling** — Can report AI as unavailable while retaining preliminary non-LLM findings.
 
 ## 🧰 Technology stack
 
-| Layer | Technologies | Role |
-|---|---|---|
-| Core | Python | Processing, pipelines, orchestration |
-| Documents | PyMuPDF | PDF text extraction |
-| Embeddings | Sentence Transformers (`all-MiniLM-L6-v2`) | Local semantic embeddings |
-| Vector search | ChromaDB | Persistent local retrieval index |
-| RAG | LangChain-related components, custom Python modules | Retrieval and grounded answering |
-| Workflow | LangGraph | Routing and review states |
-| LLM | Ollama + Qwen2.5:7B | Local text generation |
-| UI | Streamlit | Dashboard and reports |
-| Testing | pytest | Automated tests |
+| Layer | Technologies |
+|---|---|
+| Frontend | React, TypeScript, Vite, Tailwind CSS, Recharts |
+| API | Python, FastAPI, Pydantic, Uvicorn |
+| Documents | PyMuPDF, custom rule parser and change detection |
+| Retrieval | LangChain, LangGraph, ChromaDB |
+| Embeddings | Hugging Face Sentence Transformers (`all-MiniLM-L6-v2`) |
+| Local LLM | Ollama, Qwen2.5 |
+| Integration | Model Context Protocol (MCP) |
+| Testing | pytest, TypeScript/Vite build |
+
+## 📊 Demonstrated results
+
+| Metric | Local DPDP case-study run |
+|---|---:|
+| Rules analyzed | **17** |
+| Modified rules identified | **12** |
+| Preliminary impact findings | **12** |
+| Internal policy sections checked | **8** |
+| Backend tests | **261 passed** |
+
+These figures describe a local validation run, **not** model accuracy, legal compliance, or a performance benchmark. With Ollama stopped, the application correctly displayed `AI status: unavailable`.
 
 ## 🗂️ Project structure
 
 ```text
 Regulatory-AI-Intelligence/
 ├── app/
-│   ├── document_engine/      # PDF extraction and section parsing
-│   ├── change_engine/        # Alignment, text differences, change analysis
-│   ├── impact_engine/        # Policy matching and impact evidence
-│   ├── rag_engine/           # Embeddings, ChromaDB, RAG, LLM, verification
-│   ├── report_engine/        # Report building
-│   └── review_engine/        # Human review persistence
-├── dashboard/
-│   └── app.py                # Streamlit interface
-├── data/
-│   ├── regulatory/           # Draft and final source PDFs
-│   ├── extracted/            # Extracted text JSON
-│   ├── parsed/               # Parsed rule JSON
-│   ├── aligned/              # Rule alignments and review queue
-│   ├── analysis/             # Change analysis JSON
-│   ├── company_policies/     # Fictional policy text
-│   └── reports/              # Generated analysis reports
-├── scripts/                  # Indexing, search, report generation, checks
-├── tests/                    # Module and integration tests
+│   ├── api/                 # FastAPI endpoints
+│   ├── document_engine/     # PDF extraction and parsing
+│   ├── change_engine/       # Rule alignment and differences
+│   ├── impact_engine/       # Preliminary policy impact
+│   ├── rag_engine/          # Retrieval, LLM, verification
+│   ├── report_engine/       # Report generation
+│   └── mcp_server.py        # MCP integration
+├── frontend/                # React dashboard
+├── tests/                   # Automated tests
+├── scripts/                 # Supporting utilities
 ├── requirements.txt
 └── README.md
 ```
 
-## ⚡ Quick start
+## ⚡ Getting started
 
-**Prerequisites:** Python 3.11, Git, and [Ollama](https://ollama.com/) installed locally. Model download and the first embedding run require network access; subsequent inference is local when the models are available.
+**Requirements:** Python 3.11, Node.js/npm, and [Ollama](https://ollama.com/). First-time embedding model downloads require internet access.
+
+**Backend** — from the project root:
 
 ```powershell
-# Clone the repository
-git clone https://github.com/ameerykb/Regulatory-AI-Intelligence.git
-cd Regulatory-AI-Intelligence
-
-# Create and activate a virtual environment (Windows PowerShell)
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
-
-# Install dependencies
-python -m pip install -r requirements.txt
-
-# Download the local generation model
-ollama pull qwen2.5:7b
+pip install -r requirements.txt
+python -m uvicorn app.api.main:app --reload
 ```
 
-Start the Ollama service if it is not already running, then index the provided parsed rules:
+**AI model** — start Ollama and ensure the locally configured Qwen2.5 model is installed.
+
+**Frontend** — in another terminal:
 
 ```powershell
-python -m scripts.index_dpdp_rules
-python -m scripts.search_dpdp_rules
+cd frontend
+npm install
+npm run dev
 ```
 
-Launch the dashboard from the repository root:
+Open the URL shown by Vite (usually `http://localhost:5173`). FastAPI documentation is available at `http://127.0.0.1:8000/docs`.
 
-```powershell
-streamlit run dashboard/app.py
-```
+### Typical workflow
 
-> **Dependency note:** The supplied `requirements.txt` is a full environment freeze, not a minimal curated dependency list. Some pinned packages may be platform-specific; installation has not been independently verified in a clean environment for this README.
-
-## 📊 Generated outputs
-
-The uploaded repository includes example JSON/Markdown outputs in `data/reports/`, including:
-
-- `dpdp_2025_policy_impact_report.json`
-- `dpdp_2025_impact_evidence_report.json`
-- `dpdp_2025_evidence_report.json`
-- `dpdp_2025_consolidated_report.json`
-- `dpdp_2025_readable_report.md`
-
-These are generated analysis artifacts; review their evidence and limitations before interpreting any compliance recommendation.
+**Upload Draft & Final PDFs → Compare numbered rules → Inspect changes → Run policy impact analysis → Review evidence → Export reports**
 
 ## 🧪 Testing
-
-The repository contains automated tests for document extraction, parsing, alignment, change analysis, embeddings, vector search, RAG, claim verification, and report building.
 
 ```powershell
 python -m pytest tests/ -q
 ```
 
-A test suite and test runner are included, but this README does **not** claim a fresh pass count or coverage percentage: those must be verified in the intended local environment with the required dependencies and services available.
+The project was locally validated with **261 passing backend tests**, a successful frontend build, and manual checks of uploads, comparisons, impact analysis, report exports, invalid files, and LLM unavailability.
 
-## 🔐 Reliability & responsible use
+## 🔐 Limitations & responsible use
 
-- **Evidence-first generation:** Retrieved regulatory passages and source metadata are used to support generated answers.
-- **Citation checks:** Dedicated validators assess references and supporting evidence.
-- **Prompt-injection checks:** Retrieved text is screened for suspicious instructions.
-- **Human oversight:** The workflow can require human review even when automated verification checks pass.
-- **Local inference:** The LLM API is configured to run on `localhost` through Ollama.
-
-These controls reduce risk but do not guarantee factual correctness, legal accuracy, or complete protection against malicious inputs.
+- Comparison is designed for **versions of the same structured regulation**, not arbitrary unrelated PDFs.
+- Company policy matches are **semantic candidates**, not verified compliance conclusions.
+- The demonstrated company policy data is fictional; arbitrary company-policy PDF ingestion is not established as a supported workflow.
+- Uploaded documents are tracked in the browser session; the backend does not currently provide a general document-list endpoint.
+- AI explanations and retrieved evidence require qualified human review.
 
 ## 👤 Author
 
 **Ameer Yakoob M T**  
-AI & Data Science graduate · Python · Machine Learning · RAG · LLM Applications
+B.E. Artificial Intelligence & Data Science · Python · Machine Learning · Generative AI
 
 [![GitHub](https://img.shields.io/badge/GitHub-ameerykb-181717?style=flat-square&logo=github)](https://github.com/ameerykb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=flat-square)](https://ameeryakoob.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ameer-yakoob-m-t-1b2194287/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00C7B7?style=flat-square)](https://ameeryakoob.netlify.app/)
 
 ---
 
-<div align="center"><sub>Built as an educational AI engineering project. Regulatory assessments require qualified human review.</sub></div>
+<div align="center"><sub>Built as an AI engineering portfolio project · Human review required for regulatory interpretations</sub></div>
