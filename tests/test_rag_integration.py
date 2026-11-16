@@ -25,12 +25,13 @@ def test_complete_rag_pipeline():
         return_value=evidence,
     ):
         with patch(
-            "app.rag_engine.rag_pipeline.generate_chat_response",
-            return_value=(
+            "app.rag_engine.rag_pipeline.ChatOllama"
+        ) as mock_llm:
+            mock_llm.return_value.invoke.return_value.content = (
                 "Affected individuals must be notified "
                 "without delay. [Source 1]"
-            ),
-        ):
+            )
+
             with patch(
                 "app.rag_engine.rag_pipeline.verify_claim_against_evidence",
                 return_value={
@@ -38,18 +39,31 @@ def test_complete_rag_pipeline():
                     "raw_response": "SUPPORTED",
                 },
             ) as mock_verifier:
-                result = answer_regulatory_question(
-                    question="When must individuals be notified?",
-                    document_version="final_2025",
-                    top_k=1,
-                )
+                with patch(
+                    "app.rag_engine.claim_verification_pipeline.verify_individual_claim",
+                    return_value={
+                        "verdict": "SUPPORTED",
+                        "quote_valid": True,
+                        "evidence_quote": (
+                            "notify affected individuals without delay"
+                        ),
+                    },
+                ) as mock_claim_verifier:
+                    result = answer_regulatory_question(
+                        question="When must individuals be notified?",
+                        document_version="final_2025",
+                        top_k=1,
+                    )
 
-    assert result["status"] == "generated_requires_review"
+    assert result["status"] == "verified"
     assert len(result["sources"]) == 1
     assert result["sources"][0]["rule_number"] == "7"
     assert "[Source 1]" in result["answer"]
     assert result["verification"]["verdict"] == "SUPPORTED"
+    assert result["claim_verification"]["all_claims_verified"]
 
+    mock_llm.return_value.invoke.assert_called_once()
     mock_verifier.assert_called_once()
+    mock_claim_verifier.assert_called_once()
 
     print("RESULT: RAG INTEGRATION TEST PASSED")

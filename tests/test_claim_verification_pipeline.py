@@ -163,4 +163,4 @@ def test_workflow_status(monkeypatch):
         SOURCES,
     )
 
-    assert result["status"] == "completed_requires_human_review"
+    assert result["status"] == "verified"

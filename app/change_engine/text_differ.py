@@ -98,6 +98,30 @@ def remove_gazette_page_headers(text: str) -> str:
 
     return "\n".join(cleaned_lines)
 
+def normalize_for_diff(text: str) -> str:
+    """
+    Normalize formatting artifacts for word-level comparison.
+
+    Preserve the actual words and punctuation while
+    ignoring selected spacing differences.
+    """
+    normalized = normalize_comparison_text(text)
+
+    # Standardize spacing around the em dash.
+    normalized = re.sub(r"\s*—\s*", "—", normalized)
+
+    # Standardize spacing after commas.
+    normalized = re.sub(r",\s*", ", ", normalized)
+
+    # Standardize spacing around hyphens inside words.
+    normalized = re.sub(
+        r"(?<=\w)\s*-\s*(?=\w)",
+        "-",
+        normalized,
+    )
+
+    return normalize_comparison_text(normalized)
+
 def compare_regulatory_text(
     draft_text: str,
     final_text: str,
@@ -127,8 +151,8 @@ def compare_regulatory_text(
         Text differences are not necessarily changes
         in legal meaning. All results require review.
     """
-    draft = normalize_comparison_text(draft_text)
-    final = normalize_comparison_text(final_text)
+    draft = normalize_for_diff(draft_text)
+    final = normalize_for_diff(final_text)
 
     # Split into whitespace-separated tokens while keeping
     # the original capitalization and punctuation.

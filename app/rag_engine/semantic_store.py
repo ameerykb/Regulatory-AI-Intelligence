@@ -119,7 +119,7 @@ def store_regulatory_rules(
                 metadata[field] = value.strip()
 
         # Save this rule's metadata.
-        
+
 
 # Step 3: Add this rule's metadata to the list.
         metadatas.append(metadata)
@@ -191,7 +191,7 @@ def search_regulatory_rules(
 
     collection = get_semantic_collection(database_path)
 
-    
+
     if collection.count() == 0:
         return []
     query_embedding = generate_embedding(query)
@@ -208,8 +208,8 @@ def search_regulatory_rules(
         }
 
     results = collection.query(**query_options)
-    
-    
+
+
 
     matches = []
 

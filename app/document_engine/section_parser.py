@@ -43,7 +43,8 @@ DEFAULT_END_PAGE = 37
 
 # Detect a numbered heading beginning with English text.
 RULE_PATTERN = re.compile(
-    r"^\s*(\d{1,3})\.\s*([A-Za-z].*)$"
+    r"^\s*(?:Rule\s+)?(\d{1,3})\s*(?:\.|\s*[-–—:])\s*([A-Za-z].*)$",
+    re.IGNORECASE
 )
 
 # A standalone schedule heading marks the end of main rules.

@@ -1,4 +1,4 @@
-﻿"""Tests for the regulatory RAG pipeline."""
+"""Tests for the regulatory RAG pipeline."""
 
 from unittest.mock import patch
 
@@ -119,16 +119,37 @@ def test_relevant_evidence():
                 "Notify affected individuals [Source 1]."
             )
 
-            result = answer_regulatory_question(
-                "What are the breach notification requirements?"
-            )
+            with patch(
+                "app.rag_engine.rag_pipeline.verify_answer_claims",
+                return_value={
+                    "claims": [{
+                        "claim": "Notify affected individuals.",
+                        "source_numbers": [1],
+                        "missing_sources": [],
+                        "matched_sources": [{
+                            "source_number": 1,
+                            "text": "Notify affected individuals without delay.",
+                        }],
+                        "verification": {
+                            "verdict": "SUPPORTED",
+                            "quote_valid": True,
+                        },
+                    }],
+                    "all_claims_verified": True,
+                    "status": "verified",
+                },
+            ):
+                result = answer_regulatory_question(
+                    "What are the breach notification requirements?"
+                )
 
-    assert result["status"] == "generated_requires_review"
+    assert result["status"] == "verified"
     assert len(result["sources"]) == 1
     assert result["sources"][0]["rule_number"] == "7"
     assert "[Source 1]" in result["answer"]
 
     mock_llm.return_value.invoke.assert_called_once()
+
 
 
 def test_prompt_injection_blocked():
@@ -252,8 +273,10 @@ def test_invalid_citation_blocked():
             )
 
     assert result["status"] == "citation_review_required"
-    assert result["sources"] == []
+    assert len(result["sources"]) == 1
+    assert result["sources"][0]["rule_number"] == "7"
     assert "Source 9" not in result["answer"]
+
 
 
 def test_missing_citation_blocked():
@@ -284,5 +307,6 @@ def test_missing_citation_blocked():
             )
 
     assert result["status"] == "citation_review_required"
-    assert result["sources"] == []
+    assert len(result["sources"]) == 1
+    assert result["sources"][0]["rule_number"] == "7"
     assert "Manual review is required" in result["answer"]

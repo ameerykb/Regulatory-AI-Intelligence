@@ -261,3 +261,40 @@ def test_normalize_punctuation_rejects_empty_text():
     """Empty text must be rejected."""
     with pytest.raises(ValueError):
         normalize_punctuation_spacing("   ")
+
+
+import pytest
+
+@pytest.mark.parametrize(
+    "draft, final",
+    [
+        ("processing.—Every", "processing.— Every"),
+        ("minimum,—", "minimum, —"),
+        ("rule, it", "rule,it"),
+        ("data- backups", "data-backups"),
+    ],
+)
+def test_ignore_formatting_only_changes(draft, final):
+    from app.change_engine.text_differ import compare_regulatory_text
+
+    result = compare_regulatory_text(draft, final)
+
+    assert result["status"] == "unchanged"
+    assert result["review_required"] is False
+
+
+@pytest.mark.parametrize(
+    "draft, final",
+    [
+        ("shall notify", "may notify"),
+        ("within seventy-two hours", "within forty-eight hours"),
+        ("including encryption", "such as encryption"),
+    ],
+)
+def test_preserve_meaningful_changes(draft, final):
+    from app.change_engine.text_differ import compare_regulatory_text
+
+    result = compare_regulatory_text(draft, final)
+
+    assert result["status"] == "modified"
+    assert result["review_required"] is True
